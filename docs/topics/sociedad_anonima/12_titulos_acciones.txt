@@ -1,0 +1,46 @@
+CONTENIDO DE LOS TÍTULOS O CERTIFICADOS PROVISIONALES DE ACCIONES
+
+Según el Art. 247 del Código de Comercio, los títulos representativos de las acciones o los certificados provisionales se desprenderán de cuadernos talonarios y contendrán los siguientes detalles:
+
+1. NOMBRE DEL ACCIONISTA
+   - En caso de ser nominativo
+
+2. DENOMINACIÓN Y DOMICILIO DE LA SOCIEDAD
+   - Fecha y lugar de su constitución
+
+3. FECHA DE LA INSCRIPCIÓN EN EL REGISTRO DE COMERCIO
+   - FUNDEMPRESA
+
+4. MONTO DEL CAPITAL SOCIAL Y DEL AUTORIZADO
+
+5. VALOR NOMINAL DE CADA ACCIÓN
+   - Serie a la que corresponde (ordinaria o preferida)
+   - Número total de acciones en que se divide la serie
+   - Derechos que correspondan
+
+6. NÚMERO DE ACCIONES QUE REPRESENTA EL TÍTULO
+
+7. LUGAR Y FECHA DE SU EMISIÓN Y NÚMERO CORRELATIVO
+
+8. EN LOS CERTIFICADOS PROVISIONALES
+   - La anotación de los pagos que se efectúen
+
+9. FIRMAS AUTÓGRAFAS
+   - De no menos de dos directores o administradores y el síndico
+
+SERVICIOS DE LA ENTIDAD DE DEPÓSITO DE VALORES (EDV):
+
+1. Depósito de valores de propiedad de los depositantes y de todos aquellos titulares de valores que a través de éstos lo soliciten
+
+2. Cobro de amortizaciones, dividendos, intereses y otros derechos patrimoniales de los valores constituidos en depósito, previa autorización del depositante
+
+3. Ejercicio de derechos políticos emergentes de los valores custodiados como asistir a juntas, asambleas de socios, ejercer representación y votar, bajo mandato expreso
+
+4. Compensación y liquidación de transacciones con valores
+
+5. Registro e inscripción previstos en la Ley del Mercado de Valores y sus reglamentos con relación a los valores entregados en depósito y a los representados por anotaciones en cuenta
+
+DESMATERIALIZACIÓN:
+Consiste en transformar valores físicos con representación documentaria en códigos electrónicos, denominados "anotaciones en cuenta", que muestran las características financieras de los valores y la propiedad de los mismos.
+
+La custodia de valores físicos documentarios inmovilizados y la elaboración de registros confiables y seguros facilitan la desmaterialización.

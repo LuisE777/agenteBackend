@@ -1,0 +1,18 @@
+### PROCEDIMIENTO DE CONSTITUCIÓN DE SOCIEDADES COMERCIALES
+
+1. **Documento público** ante Notario de Fe Pública (acto único).
+2. **Suscripción pública de acciones** (opcional en SA).
+
+#### Trámites en instituciones:
+- **FUNDEMPRESA**: Reserva de nombre, matrícula de comercio.
+- **SIN**: Otorga NIT.
+- **AFP**: Registro en sistema de pensiones.
+- **HAM**: Licencia de funcionamiento.
+- **CNS**: Seguro social a corto plazo.
+- **Ministerio de Trabajo**: Registro laboral (RM 002/2004).
+- **Cámara Sectorial**: Afiliación según actividad.
+
+#### Contenido del contrato (Art. 127 C. Comercio):
+- Datos personales y sociales.
+- Capital, aportes, reservas.
+- Objeto, duración, administración, distribución de utilidades, disolución, arbitraje.

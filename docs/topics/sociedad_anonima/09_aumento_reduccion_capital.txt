@@ -1,0 +1,57 @@
+AUMENTO Y REDUCCIÓN DE CAPITAL
+
+El capital de las sociedades es inmutable, no puede ser modificado por resultados de gestiones ni por variaciones del superávit. Solo es posible modificarlo cumpliendo requisitos legales específicos.
+
+AUMENTO DE CAPITAL
+
+Requisitos:
+- Debe respetarse el derecho preferente de los socios
+- Se debe ofrecer primero a los socios actuales cualquier nueva emisión de acciones
+- Los socios pueden ejercer este derecho dentro de los 30 días posteriores a la última publicación de oferta
+- Artículos 142, 343 y 344 del Código de Comercio
+
+Casos de Aumento:
+1. INCREMENTAR EL CAPITAL SOCIAL HACIA EL AUTORIZADO
+   - Requiere aprobación de Junta General Extraordinaria de Accionistas
+   - Modificación del contrato social
+   - Publicación e inscripción en el Registro de Comercio (FUNDEMPRESA)
+
+2. AUMENTAR EL CAPITAL AUTORIZADO
+   - Mismo procedimiento que el caso anterior
+   - Previamente debe solicitarse autorización del Registro de Comercio (FUNDEMPRESA)
+
+REDUCCIÓN DE CAPITAL
+
+Requisitos:
+- Autorización de Junta General Extraordinaria de Accionistas
+- Autorización del Registro de Comercio (FUNDEMPRESA)
+- Publicación por tres veces consecutivas en periódico de amplia circulación nacional
+- Los acreedores pueden presentar oposición dentro de los 30 días siguientes a la publicación
+- Artículo 143 del Código de Comercio
+
+Procedimiento:
+- Pueden retirarse parte de las acciones en circulación
+- Disminuir el valor nominal de las acciones cambiándolas por otras nuevas
+- Resellar las acciones con el nuevo valor nominal
+- Esta actividad debe efectuarse necesariamente por intermedio de un banco (Art. 355)
+
+Casos de Reducción (Arts. 352, 353 y 354):
+
+1. REDUCCIÓN VOLUNTARIA
+   - Cuando el capital social sobrepasa los requerimientos de la empresa
+   - Existen porciones ociosas que no pueden aplicarse en los objetivos de la sociedad
+   - El excedente podría depositarse en cuentas bancarias, pero si persiste debe reducirse el capital
+
+2. REDUCCIÓN POR PÉRDIDAS (Facultativa)
+   - Decisión de la Junta General Extraordinaria de Accionistas
+   - Se efectúa para mantener equilibrio entre patrimonio y capital social
+   - El patrimonio debe ser mayor o igual al capital social
+   - Permite mostrar un balance sin pérdidas para mejorar presentación
+
+3. REDUCCIÓN OBLIGATORIA
+   - Cuando las pérdidas superan el 50% del capital social incluidas las reservas libres
+   - Las empresas están obligadas a reducir el capital social
+   - Si el capital resultara insuficiente, debe disolverse y liquidarse la sociedad
+   - Se puede evitar si los socios efectúan aportes extraordinarios de capital
+   - Estos aportes no pueden devolverse aunque la sociedad vuelva a ser rentable
+   - Solo se recuperan a través de dividendos

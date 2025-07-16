@@ -1,0 +1,8 @@
+Podemos decir que la relación agencia-central, prácticamente se trata del caso de consignación, 
+mencionada, como doble venta, donde se produce una compra-venta simultanea y que, 
+para tener una secuencia ordenada en los registros, primero deben contabilizarse las compras 
+y después las ventas. Los precios de compra y de venta de las mercaderías son establecidos por 
+la central en todas sus agencias. 
+A manera de ejemplo, podemos indicar las agencias de las fábricas de embutidos Dillman y FYSAL, 
+donde además de vender los productos de la central, venden licores, golosinas, galletas y otras variedades, 
+o también las Agencias de Turismo, que venden pasajes aéreos, terrestres, servicios de hoteles y otros. 

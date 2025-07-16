@@ -1,0 +1,17 @@
+### CARACTERÍSTICAS DE LAS SOCIEDADES COMERCIALES
+
+1. **Origen de constitución**:
+   - Sociedades de personas: confianza/socios.
+   - Sociedades de capital: capacidad económica.
+
+2. **División del capital social**: conjunto unitario o cuotas iguales.
+3. **Representación del capital**:
+   - Por socios.
+   - Por acciones.
+
+4. **Responsabilidad**:
+   - Limitada: hasta el capital aportado.
+   - Ilimitada: incluye bienes privados.
+
+5. **Reserva legal**: obligatoria si hay responsabilidad limitada.
+6. **Número de socios**: desde 2 o 3, hasta 25 o más.

@@ -1,0 +1,19 @@
+### SOCIEDADES CIVILES Y COMERCIALES
+
+- **Art. 750 (Código Civil):** Sociedad es un contrato donde dos o más personas aportan bienes o trabajo para obtener y distribuir resultados económicos.
+
+- **Art. 751:** Las sociedades pueden ser:
+  - Civiles: reguladas por el Código Civil.
+  - Comerciales: reguladas por el Código de Comercio.
+
+- **Art. 752:** Las sociedades civiles pueden adoptar formas comerciales y regirse por el Código de Comercio.
+
+#### Diferencias destacadas:
+1. Civiles pueden usar documento privado; comerciales, escritura pública.
+2. Civiles no requieren inscripción en registro; comerciales sí.
+3. Comerciales deben llevar libros contables, las civiles no.
+4. Disolución por muerte es obligatoria en civiles, no en comerciales.
+5. Comerciales requieren estipulaciones sobre administración.
+6. Responsabilidad: mancomunada (civiles), solidaria o limitada (comerciales).
+7. Prórrogas automáticas en civiles, no en comerciales.
+8. Insolvencia: concurso (civil) vs. quiebra (comercial).

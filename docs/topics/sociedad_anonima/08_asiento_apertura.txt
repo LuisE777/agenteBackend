@@ -1,0 +1,31 @@
+BALANCE Y ASIENTOS DE APERTURA
+
+Los asientos de apertura deben mostrar el comportamiento del capital en sus cuatro estados principales:
+
+1. CAPITAL AUTORIZADO
+Representado por las acciones a emitir:
+- ACCIONES A EMITIR (debe)
+- CAPITAL AUTORIZADO (haber)
+
+2. CAPITAL EMITIDO
+Representado por las acciones emitidas:
+- ACCIONES EMITIDAS (debe)
+- ACCIONES A EMITIR (haber)
+
+3. CAPITAL SUSCRITO
+Representado por las acciones suscritas:
+- ACCIONISTAS (SUSCRIPTORES) (debe)
+- ACCIONES EMITIDAS (haber)
+
+4. CAPITAL PAGADO
+Representado por los aportes que los socios entreguen a cuenta de su compromiso, suponiendo en efectivo:
+- CAJA (BANCOS) (debe)
+- ACCIONISTAS (SUSCRIPTORES) (haber)
+
+REGISTRO ALTERNATIVO:
+Se puede efectuar el registro directo del Capital Social como cuenta, sin tomar la clasificación anterior:
+- CAJA (BANCOS) (debe)
+- CAPITAL SOCIAL (haber)
+
+NOTA IMPORTANTE:
+El Capital Social está dado por la diferencia entre el Capital Autorizado y las acciones de la propia empresa que se encuentren en su poder (las que no estén en circulación), ya que estas no tienen valor o no hacen activo mientras no hayan sido suscritas.

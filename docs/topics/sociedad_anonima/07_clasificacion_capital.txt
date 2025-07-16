@@ -1,0 +1,63 @@
+CLASIFICACIÓN DEL CAPITAL
+
+El capital se considera como el importe total susceptible de ser aportado por los socios, independientemente de las épocas en que se requiera su aportación.
+
+Las sociedades anónimas pueden constituirse con el doble del capital social requerido para su funcionamiento, reservando el saldo para futuros incrementos de capital.
+
+ESTRUCTURA JERÁRQUICA DEL CAPITAL:
+
+1. CAPITAL AUTORIZADO (CA)
+Es el monto aprobado en el contrato de constitución de la sociedad. Puede ser autorizado hasta el doble del capital social requerido y debe estar suscrito por lo menos en un 50%. Se encuentra inscrito en el Contrato o Escritura de constitución, por lo que se conoce también como "Capital Escriturado".
+
+Fórmula: CAPITAL AUTORIZADO = CAPITAL NO EMITIDO + CAPITAL EMITIDO
+
+2. CAPITAL NO EMITIDO (CNE)
+Es la parte del capital autorizado que se tiene como reserva para futuras inversiones. Sus acciones no fueron emitidas o puestas a disposición de los socios o terceras personas. Está representado por el saldo de las Acciones a Emitir.
+
+Fórmula: CAPITAL NO EMITIDO = CAPITAL AUTORIZADO - CAPITAL EMITIDO
+
+3. CAPITAL EMITIDO (CE)
+Es la parte del capital autorizado por la cual se emitieron acciones. Puede ser determinado por la diferencia entre el capital autorizado y el capital no emitido.
+
+Fórmula: CAPITAL EMITIDO = CAPITAL AUTORIZADO - CAPITAL NO EMITIDO
+También: CAPITAL EMITIDO = CAPITAL NO SUSCRITO + CAPITAL SUSCRITO
+
+4. CAPITAL NO SUSCRITO (CNSU)
+Es la parte del capital emitido que no fue adquirido por los socios. Está representado por las acciones no suscritas, también conocidas como "acciones en cartera". Pueden permanecer pendientes de suscripción o ser revertidas como acciones a emitir.
+
+Fórmula: CAPITAL NO SUSCRITO = CAPITAL EMITIDO - CAPITAL SUSCRITO
+
+5. CAPITAL SUSCRITO (CS)
+Es la parte del capital emitido que fue adquirido por los socios mediante la suscripción de un contrato. Es igual al capital social y por lo menos igual al 50% del capital autorizado.
+
+Fórmula: CAPITAL SUSCRITO = CAPITAL EMITIDO - CAPITAL NO SUSCRITO
+También: CAPITAL SUSCRITO = CAPITAL NO PAGADO + CAPITAL PAGADO
+
+6. CAPITAL NO PAGADO (CNP)
+Es la parte del capital suscrito que todavía no fue aportado o exhibido por los socios. Se conoce también como "capital insoluto".
+
+Fórmula: CAPITAL NO PAGADO = CAPITAL SUSCRITO - CAPITAL PAGADO
+
+7. CAPITAL PAGADO (CP)
+Es la parte del capital suscrito que fue aportado o desembolsado por los socios en dinero o en otros bienes. Se conoce también como capital exhibido, integrado, liberado y fundacional.
+
+Fórmula: CAPITAL PAGADO = CAPITAL SUSCRITO - CAPITAL NO PAGADO
+
+8. CAPITAL SOCIAL (CSO)
+Es el que establece el derecho que tienen los socios en la empresa. Está representado por las acciones en circulación que se encuentran en poder de los socios. Debe ser suscrito en su totalidad al constituirse la sociedad.
+
+CAPITAL SOCIAL = CAPITAL SUSCRITO
+
+EJEMPLO NUMÉRICO:
+Capital Autorizado: 140.000 Bs
+Capital No Emitido: 50.000 Bs
+Capital Emitido: 90.000 Bs
+Capital No Suscrito: 10.000 Bs
+Capital Suscrito: 80.000 Bs
+Capital No Pagado: 35.494 Bs
+Capital Pagado: 44.506 Bs
+
+CUADRO RESUMEN:
+- CA (1.400 Acc.) se divide en CNE (500 Acc.) y CE (900 Acc.)
+- CE (900 Acc.) se divide en CNSU (100 Acc.) y CSU = CSO (800 Acc.)
+- CSU = CSO (800 Acc.) se divide en CNP y CP

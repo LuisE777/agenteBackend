@@ -1,0 +1,37 @@
+EMISIÓN DE ACCIONES
+
+DEFINICIÓN:
+Se entiende por emisión de acciones a la decisión de poner en circulación títulos valores a cambio de capital a largo plazo. Esta decisión debe ser tomada por los socios en asamblea general extraordinaria.
+
+PROCESO DE EMISIÓN:
+1. La primera partida se emite en la asamblea de constitución de la sociedad
+2. La emisión de acciones es previa a su suscripción y pago
+3. Primero se debe aprobar el número de acciones que se van a emitir de acuerdo al requerimiento de capital social
+4. Luego recién podrán ser suscritas y pagadas
+5. Solamente después de la cancelación total de la suscripción realizada se podrán otorgar los títulos accionarios
+
+VALOR DE EMISIÓN Y COLOCACIÓN:
+- Todas las acciones deben ser emitidas solamente con su valor nominal
+- La sociedad podrá colocarlas (venderlas) a distintos valores
+
+CASOS DE COLOCACIÓN:
+
+1. COLOCACIÓN CON PRIMA
+   - Se coloca a un valor mayor al nominal
+   - Compensa el superávit y/o el crédito mercantil
+   - Se dice que las acciones fueron colocadas con prima
+   - Debe registrarse esta prima en una cuenta de reservas de capital
+   - Se descontan los gastos de emisión (Art. 241 Código de Comercio)
+
+2. COLOCACIÓN CON DESCUENTO
+   - Se coloca a un valor inferior al real
+   - Representa una pérdida para la sociedad
+   - Debe registrarse como tal
+   - O puede afectar a la reserva anteriormente indicada
+
+IMPORTANCIA:
+La emisión de acciones es fundamental para:
+- Obtener capital a largo plazo
+- Financiar operaciones y expansión de la empresa
+- Mantener el control del capital social
+- Cumplir con los requisitos legales de constitución y funcionamiento

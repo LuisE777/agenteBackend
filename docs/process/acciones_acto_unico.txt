@@ -1,0 +1,65 @@
+INSCRIPCIÓN DE SOCIEDAD ANÓNIMA (S.A.) O SOCIEDAD EN COMANDITA POR ACCIONES - ACTO ÚNICO
+
+1. CONCEPTO
+- Sociedad Anónima (S.A.): Constituida por accionistas que responden solo hasta el monto de sus aportes. El capital está representado por acciones negociables.
+- Sociedad en Comandita por Acciones: Socios gestores responden como en sociedad colectiva. Accionistas comanditarios limitan su responsabilidad al valor de sus acciones.
+
+2. MARCO LEGAL
+- D.L. Nº 14379 de 25/02/1977 – Código de Comercio:
+  - S.A.: Art. 127, 217-355
+  - S.C.A.: Art. 127, 356-364
+- Ley Nº 393 de 21/08/2013 – Ley de Servicios Financieros:
+  - Art. 117, 118, 119, 151
+
+3. RESERVA DE NOMBRE
+- Vigencia: 20 días hábiles desde confirmación de disponibilidad.
+
+4. REQUISITOS GENERALES
+
+PRESENCIAL
+- Formulario Virtual de Inscripción (vía ciudadanía digital)
+- Testimonio de Escritura Pública de Constitución Social (original o legalizada)
+- Estatuto de la Sociedad (insertado o separado)
+- Testimonio de Poder del Representante Legal (si no está en la escritura de constitución)
+- Si el representante es extranjero: documento de radicatoria o certificado migratorio
+- Pago de trámite y publicación en Gaceta Electrónica
+- Si es sociedad regulada: autorización del ente regulador
+
+VIRTUAL
+- Todos los requisitos anteriores en formato PDF y con firma digital del notario (SINPLU)
+- Carga de documentos directamente en el sistema
+- Pago electrónico habilitado
+
+5. PROCEDIMIENTO
+
+PASOS COMUNES
+1. Ingresar a: https://tramites.seprec.gob.bo con ciudadanía digital
+2. Llenar formulario de control de homonimia
+3. Realizar el pago del trámite
+4. En máximo 8 horas hábiles:
+   - Si el nombre está disponible: se reserva y se habilita el llenado de inscripción
+   - Si no: se informa la observación para nuevo intento
+5. Llenar formulario de inscripción y adjuntar documentos requeridos
+6. Análisis legal por SEPREC
+   - Si hay observaciones: aparecen en bandeja “OBSERVADOS”
+   - Corrección según el tipo de observación:
+     - Documento notarial: nota marginal, aclarativa o nuevo testimonio
+     - Formulario virtual: corrección en línea
+
+PRESENCIAL: entrega física de documentos
+VIRTUAL: envío digital con firma notarial
+
+6. DOCUMENTOS EMITIDOS
+- Certificado de Matrícula de Comercio
+- Certificado de Registro de Testimonio de Constitución
+- Certificado de Registro de Testimonio de Poder
+- Si corresponde: Certificado de Registro de Estatuto (instrumento separado)
+- Todos con código QR de validación
+
+7. PLAZO DE INSCRIPCIÓN
+- Presencial: 24 horas hábiles posteriores a la presentación
+- Virtual: 24 horas hábiles desde el llenado del formulario
+
+8. COSTO
+- Inscripción: Bs 584,50
+- Publicación en Gaceta: Bs 192,00

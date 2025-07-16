@@ -1,0 +1,110 @@
+============================================================
+📘 INSCRIPCIÓN DE SOCIEDADES (SRL, COLECTIVA, COMANDITA SIMPLE)
+============================================================
+
+====================
+🔹 CONCEPTO
+====================
+- **Sociedad de Responsabilidad Limitada (S.R.L.):** 
+  Capital dividido en cuotas no representadas por títulos. Responsabilidad limitada al aporte. Denominación debe incluir “S.R.L.” o “Ltda.”.
+
+- **Sociedad Colectiva:** 
+  Los socios responden solidaria e ilimitadamente bajo una denominación común.
+
+- **Sociedad en Comandita Simple:** 
+  Socios Gestores responden solidaria e ilimitadamente. Socios Comanditarios solo con su aporte.
+
+====================
+📜 MARCO LEGAL
+====================
+- **Código de Comercio (D.L. N° 14379 de 25/02/1977):**
+  - Art. 127, 173-183: Sociedad Colectiva
+  - Art. 127, 184-194: Sociedad en Comandita Simple
+  - Art. 127, 195-216: Sociedad de Responsabilidad Limitada
+
+- **Ley N° 393 de Servicios Financieros (21/08/2013):**
+  - Artículos 117, 118, 119 y 151
+
+====================
+📝 RESERVA DE NOMBRE
+====================
+- Vigencia: 10 días hábiles administrativos desde la confirmación del nombre disponible.
+
+============================================================
+📋 REQUISITOS
+============================================================
+
+✅ TRÁMITE PRESENCIAL:
+1. Formulario Virtual de Inscripción con firma por ciudadanía digital.
+2. Testimonio de Escritura Pública de Constitución (original o legalizada).
+3. Poder del Representante Legal (si no está en el Testimonio de Constitución).
+4. Para representante extranjero: documento de radicatoria o certificación migratoria.
+5. Pago del trámite y publicación en la Gaceta Electrónica del Registro de Comercio.
+6. Si aplica: autorización del ente regulador (en formato PDF).
+
+✅ TRÁMITE VIRTUAL:
+1. Formulario Virtual de Inscripción con firma digital por ciudadanía digital.
+2. Testimonio de Constitución (PDF con firma digital del Notario en SINPLU).
+3. Poder del Representante Legal (PDF con firma digital del Notario en SINPLU).
+4. Para representante extranjero: documento de radicatoria o certificación migratoria.
+5. Pago y publicación en la Gaceta Electrónica.
+6. Si aplica: autorización del ente regulador (PDF).
+
+============================================================
+📌 PROCEDIMIENTO
+============================================================
+
+✅ PROCEDIMIENTO PRESENCIAL:
+1. Ingresar al portal: https://tramites.seprec.gob.bo
+2. Llenar el formulario virtual para control de homonimia.
+3. Pagar el trámite según la Guía de Trámites del SEPREC.
+4. En un plazo de 8h hábiles:
+   - Si el nombre está disponible → continuar inscripción.
+   - Si no está disponible → observar y volver a llenar formulario con nuevo nombre.
+5. Completar formulario de inscripción y cargar documentos en PDF.
+6. Presentar documentación física en plataforma del SEPREC.
+7. SEPREC realiza análisis legal:
+   - Si hay observaciones → aparecen en la bandeja “OBSERVADOS”.
+   - Subsanación posible mediante:
+     - Nota marginal
+     - Aclarativa o modificatoria
+     - Nuevo testimonio corregido
+8. Corrección del formulario virtual puede hacerse en línea.
+9. Una vez aprobado, descargar certificados desde “MIS CERTIFICADOS”.
+
+✅ PROCEDIMIENTO VIRTUAL:
+(Similar al presencial, con diferencia en la entrega digital)
+1. Ingresar al portal: https://tramites.seprec.gob.bo
+2. Control de homonimia → pago del trámite.
+3. En 8h hábiles:
+   - Si nombre disponible → continuar inscripción.
+   - Si no → volver a llenar el formulario.
+4. Llenar campos y adjuntar documentos PDF desde SINPLU.
+5. Análisis legal por el SEPREC.
+6. Subsanaciones (igual que trámite presencial).
+7. Corrección del formulario virtual se hace en línea.
+8. Certificados disponibles en “MIS CERTIFICADOS”.
+
+============================================================
+📄 DOCUMENTOS EMITIDOS
+============================================================
+- Certificado de Matrícula de Comercio
+- Certificado de Registro de Testimonio de Constitución
+- Certificado de Registro de Testimonio de Poder  
+(Todos con código QR de validación)
+
+============================================================
+🕐 PLAZOS DE TRÁMITE
+============================================================
+- **Presencial:** 24 horas desde el día hábil siguiente a la presentación.
+- **Virtual:** 24 horas desde el día hábil siguiente al llenado del formulario.
+
+============================================================
+💰 COSTO
+============================================================
+- Inscripción: **Bs 455,00**  
+  (Sociedad de Responsabilidad Limitada, Colectiva o en Comandita Simple)
+
+- Publicación en Gaceta Electrónica: **Bs 192,00**
+
+============================================================

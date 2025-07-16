@@ -1,0 +1,3 @@
+Está determinado por la diferencia entre patrimonio y capital social.
+SUPERAVIT = PATRIMONIO - CAPITAL SOCIAL
+SUPERAVIT 12.000 - 9.000 = 3.000

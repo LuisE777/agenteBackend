@@ -1,0 +1,37 @@
+DEFINICIÓN DE ACCIÓN
+
+El capital de las sociedades anónimas está dividido en cuotas de diez o múltiplos de diez bolivianos, y cada una de ellas está representada por un título valor denominado acción.
+
+DEFINICIÓN:
+"Acción es un título valor que representa una parte alícuota del capital de una sociedad, otorgando a su poseedor la calidad de accionista".
+
+ENFOQUES DE LAS ACCIONES:
+
+1. COMO PARTE ALÍCUOTA DEL CAPITAL SOCIAL
+   - Divide exactamente en cuotas iguales al capital
+   - Por principio de igualdad, cada cuota representa el mismo porcentaje de capital
+
+2. COMO TÍTULO VALOR
+   - Certifica el derecho propietario del socio en el patrimonio de una empresa
+
+3. COMO EXPRESIÓN DE LA CALIDAD DE SOCIO
+   - Otorga a su propietario derechos y obligaciones que puede ejercerlos como titular de la acción
+
+ADQUISICIÓN DE ACCIONES:
+- Se adquieren previo compromiso de pago, acto conocido como "suscripción de acciones"
+- El cumplimiento de esta obligación debe efectuarse como máximo a los 30 días del vencimiento del compromiso de pago
+- Si no se cumple el compromiso, se suspenderá de sus derechos a los accionistas morosos
+- La sociedad puede devolver los anticipos recibidos o entregar acciones liberadas en el número que puedan cubrir los anticipos
+- Se puede aplicar descuento o cobro de daños y perjuicios ocasionados a la sociedad
+
+EMISIÓN DE TÍTULOS:
+- Por lo general, no se entrega una acción por cada cuota de capital
+- Se emiten títulos que representan a una o más acciones
+
+DESMATERIALIZACIÓN:
+La tendencia actual es eliminar los títulos valores físicos y sustituirlos por registros electrónicos a través de las entidades de depósitos de valores. Esto busca:
+- Reducir el riesgo del manejo físico de los títulos valores
+- Agilizar las transacciones en el mercado secundario
+- Facilitar su liquidación
+
+En Bolivia se constituyó la "ENTIDAD DE DEPÓSITO DE VALORES DE BOLIVIA S.A." - EDV mediante Resolución Administrativa No. SPVS-IV-No. 451/2002 del 24 de mayo de 2002, con domicilio legal en La Paz.

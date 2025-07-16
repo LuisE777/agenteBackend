@@ -1,0 +1,13 @@
+### ADMISIÓN Y RETIRO DE SOCIOS EN SOCIEDAD COLECTIVA
+
+#### Admisión:
+- Requiere consentimiento unánime, salvo pacto en contrario (entre 2/3 y 100% del capital).
+- La entrada de un nuevo socio genera una nueva sociedad (según Finney y Miller).
+
+#### Retiro:
+- La responsabilidad del socio se mantiene hasta su inscripción en FUNDEMPRESA.
+- Debe comunicar su salida por escrito.
+- En caso de desacuerdo, puede disolverse la sociedad.
+
+#### Restricciones éticas:
+- Ningún socio puede competir o actuar como agente en sociedades similares sin autorización.

@@ -1,0 +1,13 @@
+### TIPOS DE SOCIEDADES COMERCIALES
+
+- **Art. 125 (Código de Comercio):** El contrato de sociedad comercial implica aportes para alcanzar un objetivo común y repartir ganancias o pérdidas.
+
+- **Art. 126:** Solo pueden existir los siguientes tipos de sociedades comerciales:
+  1. Sociedad Colectiva
+  2. Sociedad en Comandita Simple
+  3. Sociedad de Responsabilidad Limitada (SRL)
+  4. Sociedad Anónima (SA)
+  5. Sociedad en Comandita por Acciones
+  6. Asociación Accidental o en Participación
+
+Las sociedades cooperativas se rigen por ley especial.

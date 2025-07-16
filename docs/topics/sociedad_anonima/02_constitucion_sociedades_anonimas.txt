@@ -1,0 +1,95 @@
+CONSTITUCIÓN DE SOCIEDADES ANÓNIMAS
+
+=== FORMAS DE CONSTITUCIÓN ===
+Debido a que las sociedades anónimas fueron concebidas para el manejo de grandes capitales, se presentan dos alternativas de constitución:
+
+=== 1. CONSTITUCIÓN POR ACTO ÚNICO ===
+
+CARACTERÍSTICAS:
+- Constitución simultánea
+- Un solo acto de comparecencia ante Notario de Fe Pública
+- Los socios aportan el capital requerido para funcionamiento
+
+REQUISITOS (Art. 220 Código de Comercio):
+Además de los requisitos del Art. 127, debe contener:
+
+a) CAPITAL SOCIAL SUSCRITO:
+- Suscripción total del capital social
+- No puede ser menor al 50% del capital autorizado
+- "Capital Social" y "Capital Suscrito" tienen el mismo significado
+
+b) PAGO DE ACCIONES:
+- Cada acción suscrita debe pagarse mínimo 25% de su valor
+- Pago al momento de celebrar el contrato constitutivo
+
+c) ESTATUTOS:
+- Deben ser aprobados por los accionistas
+
+=== 2. CONSTITUCIÓN POR SUSCRIPCIÓN PÚBLICA ===
+
+CARACTERÍSTICAS:
+- También conocida como constitución sucesiva, gradual o escalonada
+- Se efectúa en dos actos sucesivos:
+  * Primer acto: conseguir capital
+  * Segundo acto: constituir la sociedad
+
+CUÁNDO SE UTILIZA:
+- Cuando socios fundadores (promotores) no tienen capacidad para suscribir totalidad del capital
+- Para empresas grandes que requieren completar capital con terceras personas
+
+PROGRAMA DE FUNDACIÓN:
+Documento que explica el proyecto de sociedad a terceras personas.
+
+REQUISITOS DEL PROGRAMA (Art. 222 Código de Comercio):
+1) Datos de promotores: nombre, edad, estado civil, nacionalidad, profesión, domicilio, número de cédula
+2) Clase y valor de acciones, monto de emisiones, condiciones de suscripción
+3) Número de acciones correspondientes a promotores
+4) Proyecto de estatutos
+5) Ventajas o beneficios que promotores se reservan
+6) Plazo de suscripción (máximo 6 meses)
+7) Contrato con banco para documentación y recepción de suscripciones
+
+PROCESO DE APROBACIÓN:
+- Sometimiento al Registro de Comercio (FUNDEMPRESA)
+- Autorización para publicación
+- Inscripción en máximo 15 días (sino fenece autorización)
+
+PLAZOS Y CONSECUENCIAS:
+- Plazo máximo: 6 meses para conseguir suscripción
+- Si no se logra: banco devuelve aportes sin descuento
+- Promotores cubren servicios bancarios
+- Si se logra: llamar a Junta General Constitutiva en 3 meses
+
+=== JUNTA GENERAL CONSTITUTIVA ===
+
+QUÓRUM REQUERIDO:
+- Número de socios que represente mitad más uno del capital social
+- Un representante de Dirección de Sociedades por Acciones
+- Un representante del banco contratado
+
+ATRIBUCIONES (Art. 230 Código de Comercio):
+1) Comprobar existencia de depósitos en dinero y aportaciones en especie (mínimo 25% capital suscrito)
+2) Aprobar valoración de bienes en especie o determinar nueva valuación
+3) Aprobar o rechazar gestiones y gastos de promotores
+4) Aprobar o modificar ventajas de promotores
+5) Analizar y aprobar estatutos
+6) Designar directores, representantes o administradores
+7) Nombrar síndicos
+8) Designar firmantes del acta y escritura constitutiva
+9) Considerar plazo para pago de saldo de acciones
+10) Resolver otros asuntos de interés
+
+VOTACIÓN (Art. 231):
+- Cada suscriptor tiene derecho a tantos votos como acciones haya suscrito
+- Debe haber pagado el anticipo correspondiente
+
+=== FINALIZACIÓN DEL PROCESO ===
+Una vez aprobada la constitución:
+- Inscripción en Registro de Comercio (FUNDEMPRESA)
+- Publicación de constitución
+- Banco entrega documentación y fondos a administradores
+
+=== SOCIOS FUNDADORES ===
+DEFINICIÓN:
+- Acto único: quienes firman escritura de constitución
+- Suscripción pública: quienes firman programa de fundación

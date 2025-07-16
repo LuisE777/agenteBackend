@@ -1,0 +1,5 @@
+Es el producto o resultado de la aplicación del capital social osea el 
+componente mutable del patrimonio porque puede aumentar o disminuir 
+con las operaciones de la empresa y está formado por las cuentas 
+que componen las reservas y las utilidades. 
+Cuando es negativo se lo conoce como "Déficit".

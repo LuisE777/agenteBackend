@@ -1,0 +1,3 @@
+CAPITAL PAGADO o capital exhibido, se refiere a las entregas que efectúan los socios como pago a cuenta de su compromiso de cancelar el capital social y es igual al capital social cuando el capital no pagado esté igual a cero.
+CAPITAL PAGADO = CAPITAL SOCIAL - CAPITAL NO PAGADO 
+CAPITAL PAGADO = 9.000 - 4.000 = 5.000

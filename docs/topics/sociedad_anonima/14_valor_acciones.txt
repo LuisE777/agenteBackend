@@ -1,0 +1,53 @@
+VALOR DE LAS ACCIONES
+
+El valor de las acciones se clasifica de la siguiente manera:
+
+1. VALOR NOMINAL
+   - Corresponde a la porción alícuota del capital autorizado
+   - Está representado por una acción
+   - Se encuentra inscrito en el contrato de constitución, en los estatutos y en los títulos accionarios
+   
+   Fórmula: Vn = Capital Autorizado / Número Total de Acciones
+
+2. VALOR EN LIBROS (Valor Real)
+   - Se determina dividiendo el patrimonio entre el número de acciones que se encuentran en circulación
+   - Se refiere a las acciones que representan al capital social
+   - En Bolivia está definido por el D.S. 21424 del 30 de octubre de 1986 como "Valor Patrimonial Proporcional"
+   
+   Fórmula: VL = Patrimonio / Número de Acciones en Circulación
+   También: VL = (Capital Social + Superávit) / Número de Acciones en Circulación
+
+3. VALOR DE MERCADO O VALOR DE COTIZACIÓN
+   - Está determinado por el juego de la oferta y demanda del mercado
+   - Se establece en la bolsa de valores
+   - Puede ser igual, menor o mayor que los valores anteriores
+
+EJEMPLO PRÁCTICO:
+Empresa "X" S.A.:
+- Capital autorizado: 30.000 Bs
+- Dividido en 150 acciones
+- Emitidas y suscritas: 100 acciones
+
+Cálculos:
+- Valor Nominal: Vn = 30.000/150 = 200 Bs
+- Valor en Libros: Considerando reserva legal de 700 Bs y utilidad no distribuida de 350 Bs
+  VL = (20.000 + 700 + 350)/100 = 21.050/100 = 210.50 Bs
+
+REPRESENTACIÓN PORCENTUAL:
+Cada acción representa una parte porcentual de la propiedad de la sociedad. En el ejemplo, cada acción indica que su propietario es dueño del 1% de la empresa, independiente de las variaciones que puedan presentarse en el superávit.
+
+EVOLUCIÓN DE LOS VALORES:
+- Al momento de iniciar actividades: valor nominal = valor en libros = valor de mercado
+- No cuenta con reservas ni utilidades retenidas
+- Las acciones se ofrecen inicialmente al valor nominal
+- Pasada la primera etapa, las acciones adquieren distintos valores según el desarrollo y perspectivas futuras de la empresa
+
+OTRO EJEMPLO:
+Empresa FABULOSA después de dos años:
+- Capital Social: 250.000 Bs
+- Superávit: 31.750 Bs
+- Acciones: 2.500
+- Prima por acción: 31.750/2.500 = 12.70 Bs
+- Valor en libros: VL = (250.000 + 31.750)/2.500 = 112.70 Bs
+
+Para emitir nuevas acciones, se debe compensar este superávit con una prima de 12.70 Bs por acción, registrándola en la cuenta "Reserva para Emisión de Acciones".

@@ -1,0 +1,158 @@
+ASPECTOS LEGALES Y REGULATORIOS DE SOCIEDADES ANÓNIMAS
+
+=== MARCO LEGAL PRINCIPAL ===
+
+CÓDIGO DE COMERCIO:
+- Regula las sociedades anónimas
+- Artículos específicos mencionados en el contenido:
+  * Art. 127: Requisitos generales de constitución
+  * Art. 169: Reserva legal
+  * Art. 220: Constitución por acto único
+  * Art. 222: Constitución por suscripción pública
+  * Art. 230: Junta General Constitutiva
+  * Art. 231: Votación
+  * Art. 307: Composición del Directorio
+  * Art. 316: Derechos de minoritarios
+  * Art. 332: Designación de síndicos
+  * Art. 335: Atribuciones del síndico
+  * Art. 470: Nombre comercial
+
+=== ORGANISMOS DE CONTROL ===
+
+REGISTRO DE COMERCIO (FUNDEMPRESA):
+- Aprobación del programa de fundación
+- Autorización para publicación
+- Inscripción de sociedades
+- Control de plazos y requisitos
+
+DIRECCIÓN DE SOCIEDADES POR ACCIONES:
+- Representante en Junta General Constitutiva
+- Supervisión del proceso constitutivo
+- Control de cumplimiento legal
+
+=== REQUISITOS REGISTRALES ===
+
+INSCRIPCIÓN:
+- Obligatoria en Registro de Comercio (FUNDEMPRESA)
+- Para constitución por acto único: inscripción directa
+- Para suscripción pública: inscripción del programa primero
+
+PUBLICACIÓN:
+- Obligatoria tras la constitución
+- Requisito para obtener personalidad jurídica
+- Parte del proceso de formalización
+
+PLAZOS LEGALES:
+- Programa de fundación: máximo 15 días para inscripción
+- Suscripción pública: máximo 6 meses
+- Junta Constitutiva: máximo 3 meses tras completar suscripción
+
+=== PROTECCIÓN LEGAL ===
+
+RESERVA LEGAL:
+- Obligación legal según Art. 169
+- Protección al capital social
+- Protección a acreedores
+- Mínimo 5% de utilidades hasta alcanzar 50% del capital pagado
+
+RESPONSABILIDAD LIMITADA:
+- Protección legal a socios
+- Límite: monto de aportes
+- Bienes privados no comprometidos
+
+=== DERECHOS Y OBLIGACIONES ===
+
+DERECHOS DE ACCIONISTAS:
+- Participación en utilidades
+- Derecho a voto proporcional a acciones
+- Transferencia libre de acciones
+- Información sobre gestión social
+
+DERECHOS DE MINORITARIOS:
+- Representación en órganos (mínimo 20% capital)
+- Designación de síndicos
+- Protección especial
+
+OBLIGACIONES DE ADMINISTRADORES:
+- Fianza para ejercicio del cargo
+- Rendición de cuentas
+- Cumplimiento de leyes y estatutos
+- Protección del capital social
+
+=== CONTROL Y FISCALIZACIÓN ===
+
+SÍNDICOS:
+- Obligación legal de nombramiento
+- Funciones definidas en Art. 335
+- Fiscalización sin intervención en gestión
+- Informes obligatorios
+
+AUDITORÍA:
+- Síndico conoce informes de auditoría
+- Puede solicitar auditorías externas
+- Previa autorización de junta general
+
+=== TIPOS DE EMPRESAS REGULADAS ===
+
+USO OBLIGATORIO:
+- Entidades financieras
+- Instituciones bancarias
+- Compañías de seguros
+- Solo pueden constituirse como sociedades anónimas
+
+EMPRESAS GRANDES:
+- Transporte
+- Explotación minera
+- Explotación petrolera
+- Conglomerados industriales
+
+=== PROCEDIMIENTOS ESPECIALES ===
+
+VALORACIÓN DE APORTES:
+- Aportaciones en especie requieren valoración
+- Peritos especializados
+- Aprobación por Junta General Constitutiva
+- Posibilidad de nueva valuación
+
+PARTICIPACIÓN BANCARIA:
+- Contrato obligatorio para suscripción pública
+- Banco prepara documentación
+- Recibe suscripciones y anticipos
+- Actúa como depositario
+
+=== SITUACIONES DE INCUMPLIMIENTO ===
+
+FALTA DE SUSCRIPCIÓN:
+- Devolución de aportes sin descuento
+- Promotores cubren servicios bancarios
+- Disolución del proceso
+
+IRREGULARIDADES:
+- Síndico informa sobre irregularidades
+- Adopción de medidas correctivas
+- Cumplimiento obligatorio de leyes
+
+=== LIQUIDACIÓN ===
+
+SUPERVISIÓN:
+- Síndico supervigila liquidación
+- Protección de intereses de socios
+- Cumplimiento de procedimientos legales
+
+PROCESO:
+- Regulado por Código de Comercio
+- Distribución de activos
+- Cumplimiento de obligaciones
+
+=== PERSONALIDAD JURÍDICA ===
+
+ADQUISICIÓN:
+- Tras inscripción en Registro de Comercio
+- Tras publicación de constitución
+- Capacidad legal plena
+- Separación patrimonial
+
+EFECTOS:
+- Capacidad para contratar
+- Responsabilidad propia
+- Derechos y obligaciones independientes

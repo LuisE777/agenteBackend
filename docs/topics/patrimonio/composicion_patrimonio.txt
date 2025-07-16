@@ -1,0 +1,6 @@
+El patrimonio está compuesto internamente de dos partes: una inmutable o 
+invariable que corresponde al capital social, o sea los aportes efectuados 
+por los socios y otra mutable o variable que corresponde al resultado (superávit o pérdida) de la empresa:
+PATRIMONIO = CAPITAL SOCIAL + SUPERAVIT
+Si el capital social es 9000 y el superavit 3000, el patrimonio sera de 12000
+PATRIMONIO = 9.000 + 3.000 = 12.000

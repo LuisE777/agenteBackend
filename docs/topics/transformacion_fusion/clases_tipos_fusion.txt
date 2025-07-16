@@ -1,0 +1,12 @@
+La fusion puede ser de dos clases:
+1.- Fusión por integración: conocida también como consolidación, es aquella en la que las sociedades que van 
+a formar parte de la fusión deben disolverse sin liquidarse, para constituir una nueva sociedad
+FUSIÓN POR INTEGRACIÓN
+CIA "A" +CIA "B" +.. + CIA "N" = CIA "X"
+
+2.- Fusión por absorción: cuando una de las empresas llamada absorbente incorpora al resto, esto supone la disolución sin 
+liquidación solamente de las sociedades absorbidas porque la absorbente no se disuelve, mantiene su estructura jurídica, 
+pero, aumenta su tamaño por la inclusión de las absorbidas
+
+FUSIÓN POR ABSORCIÓN
+CIA "A" + [ CIA "B" +....+ CIA "N" ]= CIA "A"

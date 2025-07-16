@@ -1,0 +1,149 @@
+ADMINISTRACIÓN DE SOCIEDADES ANÓNIMAS
+
+=== CARACTERÍSTICAS GENERALES ===
+- Carácter indirecto de administración
+- Evita concentración del poder de decisión en una persona
+- Adecuado para control de grandes empresas
+- Separación entre gestión y control
+
+=== ESTRUCTURA JERÁRQUICA ===
+
+1. JUNTA GENERAL DE ACCIONISTAS
+- También conocida como Asamblea General de Socios
+- Máxima autoridad de la sociedad
+- Designa órganos de gestión y control
+
+2. ÓRGANOS DE GESTIÓN
+- Consejo de Administración o Directorio
+- Gerentes (delegados)
+
+3. ÓRGANOS DE CONTROL
+- Síndicos
+
+=== JUNTA GENERAL DE ACCIONISTAS ===
+
+FUNCIÓN PRINCIPAL:
+- Máxima autoridad de la sociedad
+- Designa, renueva y revoca órganos de gestión y control
+
+TIPOS DE JUNTAS:
+- Juntas ordinarias
+- Juntas extraordinarias
+- Juntas especiales
+
+=== CONSEJO DE ADMINISTRACIÓN O DIRECTORIO ===
+
+COMPOSICIÓN:
+- Mínimo: 3 miembros
+- Máximo: 12 miembros
+- Pueden ser socios o no socios (Art. 307 Código de Comercio)
+
+DESIGNACIÓN:
+- Designados por juntas ordinarias de accionistas
+- Renovados por las mismas juntas
+- Revocados por las mismas juntas
+
+PRESIDENTE:
+- Elegido entre los directores
+- Salvo que estatutos digan lo contrario
+- Tiene representación legal de la sociedad
+
+DELEGACIÓN DE FUNCIONES:
+- Puede delegar administración a gerentes mediante Poder Notarial
+- Debe especificar funciones
+- Gerentes pueden ser socios o terceras personas
+- No deslinda responsabilidades del Directorio
+
+=== GERENTES ===
+
+CARACTERÍSTICAS:
+- Designados por el Directorio
+- Mediante Poder Notarial con especificación de funciones
+- Pueden ser socios o terceras personas
+- El Directorio mantiene sus responsabilidades
+
+FUNCIÓN:
+- Administración delegada de parte de la sociedad
+- Ejecución de decisiones del Directorio
+
+=== ÓRGANOS DE CONTROL - SÍNDICOS ===
+
+FUNCIÓN PRINCIPAL:
+- Representantes de los socios
+- Labores de control o fiscalización interna
+- Actúan por cuenta de los socios
+
+PERFIL REQUERIDO:
+- Personas con adecuada experiencia
+- Preferentemente auditor financiero
+- Pueden ser socios o terceras personas
+
+DESIGNACIÓN:
+- Designados por socios en asamblea general ordinaria
+- Renovados por la misma vía
+- Revocados por la misma vía
+
+=== DERECHOS DE ACCIONISTAS MINORITARIOS ===
+
+REPRESENTACIÓN EN ÓRGANOS:
+- Derecho a nombrar un tercio de síndicos o directores
+- Cuando representen mínimo 20% del capital social con derecho a voto
+
+DESIGNACIÓN DE SÍNDICOS:
+- Si se nominan dos síndicos: uno debe ser designado por minoritarios
+- Debe elegirse igual número de suplentes
+
+FUNDAMENTO LEGAL:
+- Arts. 316 y 332 del Código de Comercio
+
+=== ATRIBUCIONES Y DEBERES DEL SÍNDICO (Art. 335) ===
+
+1. FISCALIZACIÓN:
+- Fiscalizar administración sin intervenir en gestión administrativa
+
+2. PARTICIPACIÓN:
+- Asistir con voz pero sin voto a reuniones del directorio
+- Asistir a comité ejecutivo si existe
+- Concurrir necesariamente a juntas generales
+- Debe ser citado a todas las reuniones
+
+3. EXAMEN Y VERIFICACIÓN:
+- Examinar libros, documentos, estados de cuenta
+- Practicar arqueos y verificación de valores
+- Exigir confección de balance de comprobación
+
+4. CONTROL DE GARANTÍAS:
+- Verificar constitución de fianza para ejercicio del cargo de director
+- Informar sobre irregularidades
+- Adoptar medidas correctivas
+
+5. REVISIÓN FINANCIERA:
+- Revisar balance general y estado de resultados
+- Presentar informe escrito a junta general ordinaria
+- Dictaminar contenido de documentos y memoria anual
+
+6. CONVOCATORIAS:
+- Convocar juntas extraordinarias cuando lo juzgue conveniente
+- Convocar juntas ordinarias y especiales si directorio omite hacerlo
+
+7. ORDEN DEL DÍA:
+- Hacer incluir asuntos que estime necesarios
+
+8. CUMPLIMIENTO LEGAL:
+- Exigir cumplimiento de leyes, estatutos, reglamentos
+- Exigir cumplimiento de resoluciones de junta general
+
+9. AUDITORÍA:
+- Conocer informes de auditoría
+- Concretar auditorías externas previa autorización de junta general
+
+10. LIQUIDACIÓN:
+- Supervigilar liquidación de la sociedad
+
+11. ATENCIÓN DE DENUNCIAS:
+- Atender denuncias escritas de accionistas
+- Informar sobre investigaciones realizadas
+- Presentar conclusiones y sugerencias
+
+12. OTRAS FUNCIONES:
+- Las señaladas expresamente por junta general de accionistas

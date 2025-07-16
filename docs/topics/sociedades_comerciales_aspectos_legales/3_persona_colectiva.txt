@@ -1,0 +1,11 @@
+### PERSONA COLECTIVA O JURÍDICA
+
+Es una entidad con derechos y obligaciones, formada por personas con un objetivo común.
+
+- **Art. 52 (Código Civil):** Son personas colectivas:
+  1. El Estado, Iglesia, municipios, universidades.
+  2. Asociaciones, fundaciones, mutuales, etc.
+  3. Sociedades civiles y comerciales.
+  4. Estados extranjeros, organismos internacionales.
+
+Las personas colectivas pueden también estar conformadas por otras personas jurídicas.

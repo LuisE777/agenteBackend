@@ -1,0 +1,54 @@
+ACCIONES REDIMIBLES Y VENTA CON PRIMA
+
+ACCIONES REDIMIBLES:
+
+DEFINICIÓN:
+Son acciones preferentes que tienen su tiempo de circulación a plazo fijo, pasado el cual deben ser rescatadas por la empresa a valores previamente definidos al momento de su emisión o suscripción.
+
+CARACTERÍSTICAS:
+- Al ser retiradas de circulación pueden ser registradas como acciones emitidas (disponibles para nueva suscripción)
+- También pueden registrarse como acciones a emitir (cancelarlas técnicamente)
+- Mientras permanezcan en poder de la empresa, no constituyen un activo
+
+CONDICIONES QUE DEBEN CUMPLIR:
+1) Que sean acciones de la propia empresa
+2) Que se encuentren en circulación a plazo fijo
+
+FLEXIBILIDAD:
+- Pueden transformarse en acciones ordinarias (Art. 265 Código de Comercio)
+- Pueden ser ampliadas en su tiempo de redención por acuerdo de los socios
+- En caso de ampliación, siguen constituyendo un activo
+
+TRATAMIENTO CONTABLE:
+- Como normalmente se recuperan a valores distintos de su adquisición, se puede formar una "Reserva para Redención de Acciones" con las utilidades de cada gestión
+- También se puede utilizar la "Reserva para Emisión de Acciones"
+
+VENTA DE ACCIONES CON PRIMA:
+
+CONCEPTO:
+Al iniciar una empresa, el valor en libros y de mercado de las acciones son iguales al valor nominal. Con el tiempo se forma el superávit que aumenta el valor en libros de las acciones.
+
+NECESIDAD DE LA PRIMA:
+Cuando se requiera emitir nuevas acciones, deberán emitirse a su valor nominal más una prima que compense el superávit existente.
+
+EJEMPLO PRÁCTICO:
+Empresa FABULOSA después de dos años:
+- Superávit: Bs. 31.750
+- Acciones: 2.500
+- Prima por acción: Bs. 12,70
+- Capital Social: Bs. 250.000
+
+Cálculo del Valor en Libros:
+VL = (250.000 + 31.750)/2.500 = 112,70
+
+Para emitir nuevas acciones:
+- Valor nominal + prima de Bs. 12,70
+- La prima se registra en "Reserva para Emisión de Acciones"
+- Valor en libros por acción: Bs. 112,70
+
+CONCEPTOS CLAVE PARA EVALUACIÓN:
+- Características de las acciones redimibles
+- Diferencia entre acciones redimibles y ordinarias
+- Cálculo del valor en libros de acciones
+- Determinación de la prima en emisión de nuevas acciones
+- Tratamiento contable de las reservas

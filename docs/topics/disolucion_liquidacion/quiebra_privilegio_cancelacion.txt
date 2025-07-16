@@ -1,0 +1,8 @@
+En vista de que se pueden presentar situaciones en las que el valor de venta del activo no llegue a cubrir las deudas 
+a los acreedores de la sociedad, el Código de Comercio y el Código Civil determinan un privilegio en el orden de su cancelación, 
+que podemos deducir es el siguiente:
+1) Los créditos de dominio, que se refiere a los bienes que se encuentren en poder de la sociedad y que no sean de su propiedad;
+2) Los créditos privilegiados, correspondientes a los gastos de justicia, salarios del personal en servicio y sus beneficios sociales; 
+3) Los créditos hipotecarios, o sea los garantizados con los bienes de la sociedad, y finalmente,
+4) Los créditos comunes, que son los efectuados con documentos públicos o privados, en ese orden.
+

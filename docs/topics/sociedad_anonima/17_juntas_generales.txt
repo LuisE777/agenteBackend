@@ -1,0 +1,45 @@
+JUNTAS GENERALES DE ACCIONISTAS
+
+DEFINICIÓN:
+Las juntas de accionistas (asambleas generales de socios) son sesiones que efectúan los socios para tomar determinaciones sobre el destino y manejo de la empresa. Constituyen la autoridad suprema de la sociedad, y sus determinaciones son obligatorias para socios, directores, administradores y síndicos, salvo impugnación de nulidad.
+
+TIPOS DE JUNTAS:
+
+1) JUNTAS ORDINARIAS:
+- Son periódicas y deben reunirse por lo menos una vez al año
+- Tratan asuntos administrativos
+- Quórum: más de la mitad de las acciones con derecho a voto
+- Decisiones: mayoría absoluta de los votos presentes (Arts. 295 y 296 Código de Comercio)
+
+COMPETENCIA DE JUNTAS ORDINARIAS (Art. 285 Código de Comercio):
+1. La memoria anual e informe de los síndicos, el balance general y el estado de resultados
+2. La distribución de las utilidades o tratamiento de las pérdidas
+3. El nombramiento y remoción de directores y síndicos, y fijación de su remuneración
+4. Las responsabilidades de los directores y síndicos
+
+IMPORTANTE: Para los puntos 1, 2 y 3, la junta debe convocarse dentro de los tres meses del cierre del ejercicio fiscal.
+
+2) JUNTAS EXTRAORDINARIAS:
+- Se reúnen cuando los socios deben tomar decisiones especiales sobre políticas empresariales
+- Pueden convocarse en cualquier momento
+- Quórum: dos terceras partes de las acciones con derecho a voto (o más según estatutos)
+- Decisiones: mayoría absoluta de los votos presentes (salvo que estatutos indiquen número mayor)
+
+COMPETENCIA DE JUNTAS EXTRAORDINARIAS (Art. 286 Código de Comercio):
+1) Modificación de los estatutos (requiere trámite en Registro de Comercio - FUNDEMPRESA)
+2) Emisión de nuevas acciones
+3) Emisión de bonos y debentures
+4) Aumento del capital autorizado y reducción o reintegro del capital
+5) Disolución anticipada, prórroga, transformación o fusión de la sociedad
+6) Nombramiento, remoción y retribuciones de liquidadores
+7) Otros que la Ley, escritura social o estatutos señalen
+
+REGLAS IMPORTANTES:
+- Solo pueden tratarse asuntos consignados en la convocatoria (Art. 292)
+- Excepción: cuando se reúnen sin convocatoria expresa la totalidad de los socios (Art. 299)
+
+CONCEPTOS CLAVE PARA EVALUACIÓN:
+- Diferencias entre juntas ordinarias y extraordinarias
+- Quórum y mayorías requeridas
+- Competencias específicas de cada tipo de junta
+- Obligatoriedad de las decisiones

@@ -1,0 +1,15 @@
+
+En la transformación, si se produce cambio de responsabilidad, de ilimitada a limitada, es decir, 
+de sociedades colectivas o en comandita a sociedades de responsabilidad limitada o anónimas, 
+las operaciones anteriores a la transformación mantienen su responsabilidad ilimitada original, 
+hasta su extinción o aceptación de la transformación por los acreedores.
+Si la situación fuera inversa, es decir con cambio de responsabilidad limitada a 
+ilimitada, las operaciones anteriores a la transformación, cambian también su responsabilidad 
+a ilimitada.
+
+Segun el articulo 399 del codigo de comercio que habla de la responsabilidad anterior 
+de los socios en el caso de transformaciones menciona lo siguiente: 
+La responsabilidad ilimitada y solidaria de los socios, existente bajo el tipo anterior de sociedad, 
+no se modifica con la transformación, salvo que los acreedores la consientan. El consentimiento se presume: 
+1) Si el acreedor, luego de notificado personalmente, no se opone a la transformación dentro de los treinta días siguientes, y
+2) Si el acreedor contrata con la sociedad después de haberse producido la transformación.

@@ -1,0 +1,3 @@
+Mandante: Persona que instruye a otra, efectuar un determinado acto de comercio por cuenta del mandante. 
+Mandato: Orden o instrucción para la ejecución de un determinado acto de comercio. 
+Mandatario: Persona que acepta el encargo de ejecutar un determinado acto de comercio. 

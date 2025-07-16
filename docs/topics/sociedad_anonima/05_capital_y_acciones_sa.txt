@@ -1,0 +1,120 @@
+CAPITAL Y ACCIONES EN SOCIEDADES ANÓNIMAS
+
+=== ESTRUCTURA DEL CAPITAL ===
+
+DIVISIÓN DEL CAPITAL:
+- Capital dividido en cuotas
+- Cada cuota: 10 bolivianos o múltiplos de 10 bolivianos
+- Los socios pueden ser propietarios de una o más cuotas
+- Participación porcentual según número de cuotas
+
+TIPOS DE CAPITAL:
+1. Capital Autorizado: máximo que puede tener la sociedad
+2. Capital Social/Capital Suscrito: comprometido por los socios (mismo significado)
+3. Capital Pagado: efectivamente aportado
+
+=== ACCIONES COMO TÍTULOS VALORES ===
+
+CARACTERÍSTICAS:
+- Cada cuota de capital está representada por una acción
+- Son títulos valores
+- Representan participación en el capital social
+- No están representadas por el socio
+
+TRANSFERIBILIDAD:
+- Libertad de transferencia del capital
+- Salvo estipulaciones especiales en escritura de constitución
+- Facilita la movilidad de inversiones
+
+=== RESPONSABILIDAD LIMITADA ===
+
+ALCANCE:
+- Socios responden solo hasta el monto de sus aportes
+- Bienes privados no entran en juego
+- Protección ante quiebra o actividades desafortunadas
+
+IMPLICACIONES:
+- Reduce riesgo para inversionistas
+- Facilita captación de capital
+- Protección patrimonial personal
+
+=== RESERVA LEGAL ===
+
+FUNDAMENTO LEGAL:
+- Art. 169 del Código de Comercio
+- Protección al capital social y acreedores
+
+CARACTERÍSTICAS:
+- Retención mínima: 5% de utilidades de cada gestión
+- Objetivo: alcanzar mínimo 50% del capital pagado
+- Incrementa patrimonio de la sociedad
+- Amplía garantías
+
+FUNCIÓN:
+- Protección adicional para acreedores
+- Fortalecimiento patrimonial
+- Estabilidad financiera
+
+=== SUSCRIPCIÓN Y PAGO DE ACCIONES ===
+
+CONSTITUCIÓN POR ACTO ÚNICO:
+- Capital social debe suscribirse en totalidad
+- Mínimo 50% del capital autorizado
+- Pago mínimo: 25% del valor de cada acción suscrita
+- Pago al momento del contrato constitutivo
+
+CONSTITUCIÓN POR SUSCRIPCIÓN PÚBLICA:
+- Programa de fundación especifica condiciones
+- Contrato de suscripción con anticipos de pago
+- Plazo máximo: 6 meses para completar suscripción
+- Pago mínimo: 25% del capital suscrito
+
+=== APORTES EN ESPECIE ===
+
+PROCESO DE VALORACIÓN:
+- Pueden efectuarse aportaciones en especie
+- Requieren valoración por peritos
+- Junta General Constitutiva debe aprobar valoración
+- Opción de determinar nueva valuación
+
+RESTRICCIONES DE VOTO:
+- Suscriptores de aportaciones en especie
+- No tienen derecho a voto hasta definir valoración
+- Evita conflictos de interés
+
+=== DERECHOS DE VOTO ===
+
+REGLA GENERAL:
+- Cada suscriptor tiene derecho a tantos votos como acciones haya suscrito
+- Debe haber pagado el anticipo correspondiente
+
+LIMITACIONES:
+- Solo acciones pagadas otorgan derecho a voto
+- Restricciones para aportaciones en especie no valuadas
+
+=== ACCIONISTAS MINORITARIOS ===
+
+DEFINICIÓN:
+- Accionistas que representen mínimo 20% del capital social con derecho a voto
+
+DERECHOS ESPECIALES:
+- Nombrar un tercio de síndicos o directores
+- Si se nominan dos síndicos: uno debe ser designado por minoritarios
+- Protección de sus intereses
+
+=== CONSIDERACIONES ESPECIALES ===
+
+EMISIONES PROGRAMADAS:
+- En suscripción pública se programan emisiones
+- Especifica clase y valor de acciones
+- Establece condiciones del contrato de suscripción
+
+PLAZOS DE PAGO:
+- Junta General Constitutiva considera plazo para pago de saldo
+- Flexibilidad en condiciones de pago
+- Adaptación a capacidad de suscriptores
+
+DEVOLUCIÓN DE APORTES:
+- Si no se logra suscripción completa en plazo fijado
+- Banco devuelve aportes sin descuento
+- Promotores cubren servicios bancarios

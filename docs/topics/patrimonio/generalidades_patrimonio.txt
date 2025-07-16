@@ -1,0 +1,9 @@
+El balance general muestra la situación financiera de las empresas a una fecha determinada 
+y está formado por tres partes que constituyen la ecuación del balance: El ACTIVO, que se 
+encuentra a la izquierda representando los bienes y derechos que posee la sociedad, y a la 
+derecha se muestra la suma de sus obligaciones, con terceras personas en el PASIVO y 
+con los socios en el PATRIMONIO: 
+ACTIVO = PASIVO + PATRIMONIO 
+de donde despejando el patrimonio tenemos: (composición externa) 
+PATRIMONIO = ACTIVO PASIVO 
+

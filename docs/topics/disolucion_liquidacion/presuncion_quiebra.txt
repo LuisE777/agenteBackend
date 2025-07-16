@@ -1,0 +1,14 @@
+Segun el articulo 1489 del Codigo de Comercio se menciona lo siguiente sobre la presuncion de quiebra:
+Podrá declararse en estado de quiebra al comerciante que sin usar el beneficio del concurso preventivo, cese 
+en el pago de sus obligaciones, cualquiera sea la naturaleza de ellas.
+Se presume el estado de cesación de pagos cuando concurra cualquiera de los siguientes hechos:
+1) Incumplimiento en el pago de una o más obligaciones líquidas y exigibles;
+2) Ausencia u ocultación del deudor o, en su caso, de los administradores y representantes de la sociedad, sin dejar personero investido de facultades y con medios suficientes para cumplir las obligaciones;
+3) Clausura o cierre, sin previo aviso por más de cinco días hábiles, del establecimiento o administración donde el deudor o sociedad desarrollaba su actividad habitual;
+4) Venta de mercaderías o bienes a precios ostensiblemente inferiores a los de mercado y ocultación de los mismos;
+5) Cesión de bienes en perjuicio de sus acreedores;
+6) Revocación judicial de actos realizados en fraude de acreedores;
+7) Recurrir a cualquier medio ruinoso o fraudulento para obtener recursos o eludir el cumplimiento de sus obligaciones;
+8) Inexistencia o insuficiencia de bienes sobre los cuales se puede trabar embargo;
+9) Petición de concurso preventivo cuando éste no proceda o cuando, concedido, no se llegue a ningún convenio con los acreedores;
+10) Incumplimiento de un anterior convenio preventivo.

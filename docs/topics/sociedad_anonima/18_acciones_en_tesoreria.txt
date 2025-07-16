@@ -1,0 +1,41 @@
+ACCIONES EN TESORERÍA
+
+DEFINICIÓN:
+Las acciones en tesorería son aquellas que habiendo sido emitidas por la sociedad, suscritas y pagadas por los socios, son recuperadas posteriormente por la misma empresa, conservándolas en calidad de acciones emitidas a disposición de nuevas suscripciones por un tiempo máximo de 90 días.
+
+REQUISITOS PARA SER CONSIDERADAS ACCIONES EN TESORERÍA:
+1) Que sean acciones de la propia empresa
+2) Que hayan sido retiradas temporalmente de circulación
+3) Que se las mantenga en custodia al igual que las acciones emitidas para posteriores suscripciones
+4) Mientras se encuentran en poder de la empresa, no constituyen un activo (no tienen valor)
+
+TRATAMIENTO CONTABLE:
+- Al presentar los balances, su valor debe reducir contablemente el capital social
+- Se tratan igual que las acciones a emitir
+- No tienen valor mientras están en poder de la empresa
+
+FORMAS DE RECUPERACIÓN:
+1) Adjudicación judicial contra socios deudores
+2) Donaciones
+3) Compras (no permitida por nuestra legislación)
+
+MARCO LEGAL (Art. 257 Código de Comercio):
+"Las sociedades anónimas no pueden adquirir sus propias acciones, salvo por adjudicación judicial en pago de créditos a la sociedad. Estas acciones serán vendidas en el plazo de noventa días a partir de su fecha de adjudicación y, si no fuere posible, se procederá a reducir el capital, quedando dichas acciones sin valor. Mientras pertenezcan a la sociedad, no podrán ser representadas en las juntas de accionistas".
+
+EXCEPCIÓN:
+La reducción voluntaria de capital (Art. 352 Código de Comercio) se puede considerar como un caso de compra de acciones de la propia empresa, pero como reduce directamente el capital social, no se contrapone al artículo anterior.
+
+DIFERENCIA CON ACCIONES EN CARTERA:
+- Acciones en tesorería: han sido retiradas de circulación y si no son suscritas en 90 días, se debe reducir el capital social
+- Acciones en cartera: no han sido suscritas todavía, no afectan el capital social y permanecen como emitidas por voluntad de los socios
+
+PROCEDIMIENTO CONTABLE:
+Se utiliza el procedimiento del "Valor Nominal":
+- Se registran las acciones en tesorería a valor nominal
+- Cualquier diferencia se registra en una cuenta del superávit (ej: "Reserva para Emisión de Acciones")
+
+CONCEPTOS CLAVE PARA EVALUACIÓN:
+- Definición y características de acciones en tesorería
+- Prohibiciones legales para su adquisición
+- Tratamiento contable y su efecto en el capital social
+- Diferencias con acciones en cartera

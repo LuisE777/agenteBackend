@@ -1,0 +1,23 @@
+### NOMBRE COMERCIAL DE SOCIEDADES
+
+Funciones:
+- Identificar y promocionar la sociedad.
+- Exclusivo de quien lo registra primero en FUNDEMPRESA.
+
+Requisitos:
+1. No usar nombre de personas no socias.
+2. Ser claro y sin confusiones.
+3. Informativo para terceros.
+
+#### Elementos del nombre:
+1. **Actividad**: comercio, servicios, etc.
+2. **Nombre**:
+   - Denominación (fantasía).
+   - Razón social (apellidos socios + "y").
+3. **Tipicidad**: abreviatura del tipo de sociedad (S.R.L., S.A., etc.).
+
+Ejemplos:
+- IMPRENTA "LA VELOZ" DE MARTÍNEZ Y VALDEZ S.R.L.
+- PÉREZ Y CÍA. S.R.L.
+- PÉREZ E HIJOS S.R.L.
+- FYSAL LTDA.

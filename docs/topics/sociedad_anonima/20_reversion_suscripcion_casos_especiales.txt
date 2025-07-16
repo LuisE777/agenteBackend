@@ -1,0 +1,57 @@
+REVERSIÓN DE SUSCRIPCIÓN Y CASOS ESPECIALES
+
+REVERSIÓN DE SUSCRIPCIÓN:
+
+DEFINICIÓN:
+Situación que se presenta cuando un suscriptor no puede cumplir con su compromiso de cancelar el saldo de sus acciones suscritas después de haber efectuado pagos a cuenta.
+
+MARCO LEGAL:
+Se rige por el Art. 246 del Código de Comercio.
+
+CASOS QUE SE PRESENTAN:
+1) El suscriptor es retirado de la empresa
+2) El suscriptor permanece con el número de acciones que le permita cubrir su anticipo
+
+CONSECUENCIAS:
+- En ambos casos corresponde una indemnización por daños y perjuicios ocasionados a la empresa
+- El monto puede ser descontado del anticipo o cobrado previamente según convenio
+
+PROCEDIMIENTO CONTABLE PARA ACCIONES EN TESORERÍA:
+
+MÉTODO DEL VALOR NOMINAL:
+- Se registran las acciones en tesorería a valor nominal
+- Cualquier diferencia se registra en una cuenta del superávit
+- Ejemplo: "Reserva para Emisión de Acciones"
+
+APLICABILIDAD:
+- Es posible aplicar este procedimiento porque todas las acciones están registradas a su valor nominal
+- No sería factible en sistemas donde las acciones no tienen valor nominal
+
+EJEMPLO DE CÁLCULO:
+Valor en Libros = PATRIMONIO / NÚMERO DE ACCIONES
+VL = 314.750 / 2.700 = 116.57
+
+CONSIDERACIONES IMPORTANTES:
+
+ACCIONES EN TESORERÍA vs. ACCIONES EN CARTERA:
+- Acciones en tesorería: han circulado y fueron retiradas temporalmente
+- Acciones en cartera: emitidas pero nunca suscritas
+- Ambas son acciones emitidas pendientes de suscripción
+- Diferencia clave: las acciones en tesorería tienen plazo de 90 días para nueva suscripción
+
+TRATAMIENTO CONTABLE ESPECIAL:
+- Las acciones en tesorería afectan el capital social al momento de presentar balances
+- Se debe proceder a reducir el capital si no son suscritas en el plazo establecido
+- Se transforman en acciones emitidas o a emitir según requerimientos de la empresa
+
+IMPLICACIONES PARA LA GESTIÓN EMPRESARIAL:
+- Importancia del cumplimiento de compromisos por parte de suscriptores
+- Necesidad de establecer garantías y procedimientos claros
+- Impacto en la estructura de capital de la empresa
+
+CONCEPTOS CLAVE PARA EVALUACIÓN:
+- Definición y causas de reversión de suscripción
+- Procedimientos contables para acciones en tesorería
+- Diferencias entre tipos de acciones no suscritas
+- Cálculo del valor en libros de acciones
+- Consecuencias legales y contables del incumplimiento

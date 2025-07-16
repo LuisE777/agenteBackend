@@ -1,0 +1,60 @@
+CLASIFICACIÓN DE ACCIONES
+
+El Código de Comercio boliviano reglamenta la clasificación de acciones en su Art. 261 (ordinarias y preferidas) y Art. 239 (nominativas y al portador).
+
+1. EN CUANTO AL DERECHO QUE CONFIEREN:
+
+A) ACCIONES ORDINARIAS (Comunes)
+   - Otorgan iguales derechos y obligaciones a los socios
+   - No gozan de ninguna preferencia
+   - Si todas las acciones son de la misma clase, serán comunes
+
+B) ACCIONES PREFERENTES O PREFERIDAS
+   - Rompen las normas de igualdad respecto a las ordinarias
+   - Gozan de privilegios establecidos en el contrato social
+   - Privilegios generales:
+     • Precedencia en el pago de utilidades
+     • Reembolso de capital en caso de liquidación
+     • Mayores dividendos
+   - Tienen derecho a voz y voto en juntas extraordinarias
+   - Solo derecho a voz en juntas ordinarias
+   - No podrán representar más del 50% del capital suscrito (perderían su calidad de preferentes)
+
+2. EN CUANTO A LA FORMA DEL TÍTULO:
+
+A) ACCIONES NOMINATIVAS
+   - Llevan inscrito el nombre del accionista
+   - Su transferencia se efectúa por endoso y posterior registro en el libro de accionistas
+
+B) ACCIONES AL PORTADOR
+   - No llevan registrado el nombre del accionista
+   - Se controlan por su número de serie
+   - Su transferencia se realiza por entrega directa
+   - Son de propiedad de quien las posee
+   - Deben ser registradas en el libro de accionistas para participar en asambleas
+
+3. EN CUANTO A SU PARTICIPACIÓN EN EL CAPITAL:
+
+A) ACCIONES DE CAPITAL
+   - Representan una parte alícuota del capital
+   - Se otorgan a los socios que efectuaron aportes
+   - Pueden ser ordinarias o preferentes, nominativas o al portador
+
+B) ACCIONES DE INDUSTRIA O INDUSTRIALES
+   - No efectúan aporte alguno al capital social
+   - Se otorgan como premio al esfuerzo, especialidad, capacidad, etc.
+   - No tienen derecho sobre el capital
+   - Otorgan un porcentaje fijo previamente pactado sobre las utilidades
+   - Son nominativas
+   - Pueden registrarse con valor uno en cuentas de orden con el nombre "Acciones de Trabajo"
+   - Más adecuado sería llamarlas "Certificados de Participación"
+   - Según el Art. 156 del Código de Comercio NO están permitidas en las Sociedades Anónimas
+
+COMBINACIONES POSIBLES:
+- Acciones ordinarias nominativas
+- Acciones ordinarias al portador
+- Acciones preferentes nominativas
+- Acciones preferentes al portador
+
+REGISTRO CONTABLE:
+Cuando existan diferentes clases de acciones en una sociedad, al efectuar su registro contable o al presentarlas en el capital social, debe especificarse su clase.
