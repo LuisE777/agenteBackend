@@ -1,2 +1,5 @@
-Una persona es insolvente cuando el valor justo de venta de sus bienes en el presente, es menor que el importe necesario 
-para pagar sus deudas
+## Tema: Quiebra  
+### Subtema: Concepto de insolvencia
+
+**Texto explicativo:**  
+Una persona se considera insolvente cuando el valor justo de venta de sus bienes, en el momento presente, es menor que el monto necesario para pagar sus deudas.

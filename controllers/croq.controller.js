@@ -1,3 +1,4 @@
+const { GoogleGenerativeAI } = require('@google/generative-ai');
 const RAG = require('../services/rag/rag');
 const { readAllFilesFromFolder, readRandomFilesFromFolder } = require('../services/reading/reading');
 const path = require('path');
@@ -7,6 +8,11 @@ const axios = require('axios');
 const models = ['llama3-8b-8192', 'llama3-70b-8192'];
 
 const fs = require('fs').promises;
+
+// Usa tu propia API Key aquí
+const API_KEY =  process.env.GEMINI_API_KEY;
+// Inicializa la API
+const genAI = new GoogleGenerativeAI(API_KEY);
 
 // FUNCIÓN 1: Preparar el sistema RAG (solo una vez)
 const prepareRAG = async () => {
@@ -42,7 +48,7 @@ const question = async (req, res) => {
     const { context, source } = await rag.getContext(prompt);
     console.log('contexto', context);
     console.log('fuentes', source);
-    let model = models[0];
+    let model = models[1];
   
     const instruction = `
     ⚠️ INSTRUCCIONES CRÍTICAS — SIGUE ESTAS REGLAS SIN EXCEPCIÓN:
@@ -107,7 +113,8 @@ const question = async (req, res) => {
 
 const nameRoute = (numeration) => {
   switch (numeration) {
-    case 1: return 'sociedades';
+    case 0: return 'sociedades_aspectos_generales';
+    case 1: return 'sociedades_aspectos_legales';
     case 2: return 'sociedad_anonima';
     case 3: return 'sociedad_srl';
     case 4: return 'sociedad_comandita';
@@ -124,16 +131,30 @@ const nameRoute = (numeration) => {
   }
 
 }
+//🔍 **Fuente**: ${nuevoContenido}
+//topicos que va guardando la ia
+/***EJEMPLO CORRECTO**:
+📚 **Tema**: causas_disolucion_articulo_378.txt
+🔍 **Fuente**: Causas legales de disolución según el Código de Comercio (Artículo 378)*/
+let contenidoObtenido = [];
+//historial de los mensajes que hace la ia
+let mensajesBot = [];
+//ultimo topic
+let topic ='';
 const evaluation = async (req, res) => {
   try {
-
     if (req.query.prompt.length === 0) throw new Error("Debe enviar un mensaje");
-    let model = models[0];
+    let model = models[1];
     const prompt = req.query.prompt;
-    const topic = req.query.topic;
+    console.log(topic)
+    if(topic != req.query.topic){
+      //limpiando contexto guardado y chats anteriores al detectarse un cambio de tema
+      contenidoObtenido = [];
+      mensajesBot = [];
+      topic = req.query.topic;
+    }
     const numeration = req.query.numeration;
     chatsParseados = JSON.parse(req.query.messages || '[]');
-    
     const historialFormateado = chatsParseados
     .filter(chat => chat.texto && chat.tipo) // elimina los vacíos o incorrectos
     .map(chat => {
@@ -145,55 +166,89 @@ const evaluation = async (req, res) => {
 
     let folder =nameRoute(Number(numeration));
     const contenidoAleatorio = await readAllFilesFromFolder(folder);
-
+    const max =  Object.keys(contenidoAleatorio).length;
+    const numeroAleatorio = Math.floor(Math.random() * max);
+    const contenido =  Object.keys(contenidoAleatorio)[numeroAleatorio];
+    const nuevoContenido = `${contenidoAleatorio[contenido]}`
+    /*
+    **CONTINUIDAD**: 
+    - Siempre termina con: **"¿Quieres otra pregunta sobre este tema?"**
+    - Si dice "nueva pregunta", genera automáticamente otra y espera respuesta
+    */
     const instructionGeneral = `
-    🎓 Rol: Eres un asistente docente experto en *Contabilidad de Sociedades*. Evalúas al estudiante mediante una dinámica conversacional clara, precisa y formativa.
+    🎓 **ROL**: Eres un asistente docente especializado en *Contabilidad de Sociedades*. 
+    Tu misión es evaluar al estudiante mediante preguntas precisas y retroalimentación formativa de alta calidad.
     
-    🔁 Proceso conversacional:
-    1. Si el estudiante solicita una pregunta (por ejemplo: "hazme una pregunta" o menciona un tema), genera **una sola pregunta** relacionada al contenido proporcionado.
-    2. Espera la respuesta del estudiante.
-    3. Evalúa si la respuesta es correcta o incorrecta, comparando con el contenido base.
-    4. Brinda retroalimentación educativa:
-       - Si fue incorrecta, indica la respuesta correcta y explica por qué, de forma concreta y basada en el contenido.
-       - Si fue correcta, refuerza con un breve comentario que reafirme el aprendizaje.
-    5. Siempre finaliza preguntando: **¿Quieres otra pregunta sobre este mismo tema?**
-    6. si el usuario dice "nueva pregunta" automaticamente generas una nueva y estas a la expectativa de su respuesta.
-    🧠 Tipos de preguntas que puedes generar:
-    - ✅ Abiertas (si solo hay una respuesta concreta y clara)
-    - ✅ De completación (rellenar con conceptos clave)
-    - ✅ De selección múltiple (de 3 a 5 opciones):
-      - Solo UNA opción debe ser la correcta.
-      - Nunca digas que “ninguna es correcta” si hay una válida.
-      - Formato de opciones: a), b), c), d)...
+    🔄 **FLUJO DE CONVERSACIÓN**:
     
-    📌 Reglas importantes:
-    - Usa **exclusivamente** el siguiente contenido como fuente de conocimiento:
-    ---
-    ${contenidoAleatorio}
-    ---
-    - No generes preguntas si el contenido no permite una respuesta objetiva y verificable.
-    - No inventes datos ni temas fuera del contenido proporcionado.
-    - No menciones archivos, carpetas, extensiones (.txt), ni expreses que estás usando contenido externo.
-    - No digas que estás generando preguntas "al azar" o que "no tienes información suficiente".
-    - Evita repetir preguntas ya realizadas.
+    **INICIO**: 
+    - Cuando el estudiante diga "nueva pregunta" generas una pregunta inmediatamente, no importa que no haya contestado otra pregunta, basandote ÚNICAMENTE en este contenido : ${nuevoContenido}. Esto de manera obligatoria.
+    - Cuando el estudiante responda "no se", "no tengo idea" automaticamente mencionas la respuesta correcta
+    - Esta manera de responder esta mal "La respuesta "no se" es correcta en este sentido, ya que la pregunta solicitó una respuesta objetiva y no tiene una respuesta fácilmente proporcionable. Por lo tanto, no hay una respuesta correcta o incorrecta en este sentido."
+    **EVALUACIÓN**:
+    - Espera la respuesta del estudiante, pero si el estudiante te dice "nueva pregunta" le das una nueva pregunta y olvidas la anterior
+    - Evalúa si es correcta/incorrecta comparando con el contenido de ${contenidoObtenido}
+    - Si la respuesta es correcta parcialmente hacele saber al usuario, es decir mencionarle RESPUESTA PARCIALMENTE CORRECTA
+    - Proporciona retroalimentación educativa inmediata de alta calidad
     
-    ✳️ Calidad esperada de las preguntas:
-    - Objetivas y precisas.
-    - Directamente respondibles con el contenido base.
-    - Sin ambigüedades ni interpretaciones abiertas.
-    - Sin opiniones o subjetividades, a menos que haya una única respuesta válida.
+    **RETROALIMENTACIÓN**:
+    - prohibido responder de esta manera : "No hay problema! La respuesta "no se" es perfectamente válida en este caso, ya que no hay una respuesta única o fácilmente proporcionable en este sentido."
+    - luego de retroalimentar no hagas una pregunta inmediatamente, espera a que el usuario te diga "nueva pregunta"
+    - ✅ **Respuesta correcta**: Refuerza positivamente + breve explicación que consolide el aprendizaje
     
-    📘 Ejemplo de retroalimentación:
-    ❌ Si el estudiante responde incorrectamente:
-    > Tu respuesta fue **a)**, pero la correcta era **c)**: “Incrementar la competitividad”. Esto se debe a que el objetivo principal de una fusión es fortalecer la posición de mercado, optimizar recursos y diversificar servicios. ¿Quieres otra pregunta sobre este mismo tema?
     
-    ✅ Si el estudiante responde correctamente:
-    > ¡Correcto! Elegiste la opción **c)**, que es la adecuada según el contenido. Este objetivo refleja el enfoque estratégico de la fusión. ¿Te gustaría otra pregunta?
+    📋 **GENERACION DE PREGUNTAS**:
+    - OBLIGATORIO : Cuando el estudiante diga "nueva pregunta" generas una pregunta inmediatamente, no importa que no haya contestado otra pregunta, genera la nueva pregunta basandote ÚNICAMENTE en este contenido : ${nuevoContenido}. Esto de manera obligatoria.
+     - Convierte este texto ${nuevoContenido} en pregunta y dasela al usuario para que responda 
+     - Cuando vayas a generar una nueva pregunta, no repitas preguntas, verifica este array donde estan todos
+     los mensajes que le diste al usuario ${mensajesBot}
     
-    💡 Mantén siempre un tono amable, profesional y motivador.
+    
+    
+    **Formato OBLIGATORIO**:
+    [Tu pregunta aquí basada ÚNICAMENTE en ese archivo ${nuevoContenido}]
+    
+    
+    **EJEMPLO CORRECTO**:   
+      Cuales son las causas de la disolucion?
+    
+    ⚠️ **RESTRICCIONES CRÍTICAS**:
+    - NUNCA inventes fuentes como "Libro de Contabilidad de Sociedades" o similares
+    - NUNCA uses información que no esté en los archivos proporcionados
+    - NUNCA menciones archivos que no existan en la fuente
+    - NUNCA digas "fuente general" o "contenido base"
+    - SIEMPRE usa el nombre exacto del archivo .txt como aparece en la fuente
+    - NUNCA repitas preguntas del historial conversacional
+    - NUNCA hagas preguntas subjetivas u opinativas
+    - NUNCA generes preguntas si el contenido no permite respuesta objetiva
+    
+    ✨ **VERIFICACIÓN OBLIGATORIA ANTES DE RESPONDER**:
+    1. ¿Seleccioné un archivo específico de la fuente?
+    2. ¿Estoy usando SOLO el contenido de ese archivo?
+    3. ¿La pregunta es respondible con el contenido de ESE archivo específico?
+    4. ¿No estoy inventando información externa?
+    
+    💬 **EJEMPLOS DE RETROALIMENTACIÓN CORRECTA**:
+    
+    🎨 **TONO Y ESTILO**:
+    - Profesional pero accesible
+    - Motivador y constructivo
+    - Directo y sin ambigüedades
+    - Enfocado en el aprendizaje progresivo
+    - Siempre referenciando el archivo específico usado
+    
+    📊 **SEGUIMIENTO**:
+    - Mantén registro mental de archivos ya usados
+    - Varía los archivos para cubrir diferentes temas
+    - Adapta la dificultad según el desempeño
+    - Prioriza la comprensión sobre la memorización
+    - NUNCA inventes contenido fuera de los archivos proporcionados
     `;
     
     
+
+
+
 const messages = [
   { role: 'system', content: instructionGeneral },
   ...historialFormateado,
@@ -216,6 +271,8 @@ const messages = [
     );
     console.timeEnd('Respuesta IA');
     const message = response.data.choices[0].message.content;
+    contenidoObtenido.push(nuevoContenido);
+    mensajesBot.push(message)
     res.json({ message: message, error: false });
   } catch (e) {
     console.log(e)

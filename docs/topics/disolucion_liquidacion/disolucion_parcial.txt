@@ -1,4 +1,9 @@
-disolución parcial se reglamenta como Resolución Parcial, y significa que pueden producirse transformaciones dentro la sociedad 
-sin dar lugar a su extinción, como es el caso de la muerte o exclusión de un socio, (exceptuando la situación de los socios accionistas)
-, este hecho produce la disolución parcial de la sociedad, por lo que debe modificarse el contrato de constitución, publicarse e
- inscribirse en el Registro de Comercio (FUNDEMPRESA).
+## Tema: Disolución de sociedades  
+### Subtema: Disolución parcial
+
+**Texto explicativo:**  
+La disolución parcial, también conocida como Resolución Parcial, se refiere a transformaciones internas en la sociedad que no implican su extinción.  
+
+Ejemplos incluyen la muerte o exclusión de un socio, excepto en el caso de socios accionistas.  
+
+Este evento genera la disolución parcial de la sociedad, lo que obliga a modificar el contrato de constitución, publicar dicha modificación y registrarla en el Registro de Comercio (FUNDEMPRESA).

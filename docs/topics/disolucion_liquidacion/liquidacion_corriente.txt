@@ -1,5 +1,9 @@
-Liquidación Corriente, corresponde cuando la disolución obedece a una causa que no contemple la quiebra.
-Durante esta liquidación, los socios mantienen su derecho de supervisión y deben proceder a nombrar
-liquidadores que pueden ser los mismos administradores de la sociedad o a terceras personas, otorgándoles las facultades,
-obligaciones y responsabilidades necesarias establecidas a los administradores de liquidación.
+## Tema: Liquidación de sociedades  
+### Subtema: Liquidación corriente
 
+**Texto explicativo:**  
+La liquidación corriente ocurre cuando la disolución se produce por causas distintas a la quiebra.  
+
+Durante este proceso, los socios conservan su derecho de supervisión y deben nombrar liquidadores, quienes pueden ser los mismos administradores o terceras personas.  
+
+A estos liquidadores se les otorgan las facultades, obligaciones y responsabilidades propias de los administradores en el proceso de liquidación.

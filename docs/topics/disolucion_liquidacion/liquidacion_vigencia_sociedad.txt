@@ -1,2 +1,7 @@
-Mientras dure la liquidación, la sociedad permanece aún vigente, aditamentando a su nombre comercial las palabras "En Liquidación", 
-hasta la anulación de su inscripción en el Registro de Comercio (FUNDEMPRESA).
+## Tema: Liquidación de sociedades  
+### Subtema: Situación de la sociedad en liquidación
+
+**Texto explicativo:**  
+Durante el proceso de liquidación, la sociedad continúa vigente, debiendo adicionar a su nombre comercial las palabras "En Liquidación".  
+
+Esta situación se mantiene hasta que se anule su inscripción en el Registro de Comercio (FUNDEMPRESA).

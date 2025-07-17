@@ -1,0 +1,28 @@
+BALANCE Y ASIENTOS DE APERTURA
+
+ASPECTOS CONTABLES ESPECÍFICOS:
+En el balance y asiento de apertura de las sociedades en comandita, se debe destacar la clasificación de los capitales, así como la participación de los socios en cada uno de ellos.
+
+CLASIFICACIÓN DEL CAPITAL:
+Es fundamental distinguir entre:
+1. Capital colectivo (aportado por socios gestores)
+2. Capital comanditario (aportado por socios comanditarios)
+
+REPRESENTACIÓN CONTABLE:
+La contabilidad debe reflejar claramente:
+- La diferenciación entre ambos tipos de capital
+- La participación específica de cada socio en su respectiva categoría
+- La responsabilidad diferenciada según el tipo de socio
+
+CONSIDERACIONES ESPECIALES:
+Para las sociedades en comandita por acciones, además se debe considerar:
+- La división del capital comanditario en acciones
+- El registro apropiado de las acciones emitidas
+- La distinción entre capital colectivo conjunto y capital comanditario accionario
+
+IMPORTANCIA DE LA CLASIFICACIÓN:
+Esta clasificación contable es fundamental para:
+- Determinar los derechos de cada socio
+- Establecer las responsabilidades correspondientes
+- Facilitar la distribución de utilidades
+- Cumplir con las obligaciones legales y fiscales

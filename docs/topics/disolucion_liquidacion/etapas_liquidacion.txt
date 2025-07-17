@@ -1,2 +1,8 @@
-liquidación presenta dos etapas, la primera que corresponde a la liquidación propiamente dicha, que consiste en 
-la realización del activo y pago del pasivo y la segunda a la distribución del patrimonio neto entre los socios.
+## Tema: Liquidación de sociedades  
+### Subtema: Etapas de la liquidación
+
+**Texto explicativo:**  
+La liquidación de una sociedad se compone de dos etapas principales:  
+
+1. **Liquidación propiamente dicha:** consiste en la realización del activo y el pago del pasivo.  
+2. **Distribución del patrimonio neto:** implica repartir el patrimonio remanente entre los socios.

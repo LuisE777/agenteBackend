@@ -1,3 +1,7 @@
-Liquidación se realiza a consecuencia de la disolución y es el conjunto de actividades que todavía deben efectuarse para dar por 
-concluidas las operaciones de la sociedad, como ser la venta de inventarios, de activos fijos, cobros de cuentas, pago a los
-acreedores, a los socios, cierre de libros, etc.
+## Tema: Liquidación de sociedades  
+### Subtema: Concepto de liquidación (continuación)
+
+**Texto explicativo:**  
+La liquidación se realiza como consecuencia de la disolución y comprende el conjunto de actividades necesarias para concluir las operaciones de la sociedad.  
+
+Estas actividades incluyen la venta de inventarios y activos fijos, el cobro de cuentas, el pago a acreedores y socios, así como el cierre de libros contables, entre otras.

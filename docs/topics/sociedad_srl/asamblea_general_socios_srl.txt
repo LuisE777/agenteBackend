@@ -1,0 +1,51 @@
+ASAMBLEA GENERAL DE SOCIOS
+
+TEMA: Autoridad máxima de las sociedades de responsabilidad limitada
+
+DEFINICIÓN Y FUNCIÓN:
+La Asamblea General de Socios es la autoridad máxima de las sociedades, determina las políticas que debe seguir la sociedad.
+
+CONVOCATORIA:
+- Deben ser convocadas con ocho días de anticipación
+- Pueden convocar: los administradores, el directorio, o los socios que representen más de un cuarto de los votos
+- Medio de convocatoria: mediante carta o publicación que incluya el orden del día
+
+QUÓRUM:
+- Se llevarán a cabo con presencia de socios que representen por lo menos la mitad del capital social
+- Todos los socios tienen derecho a un voto por cada cuota de capital aportado
+- También pueden tomarse algunas decisiones por correspondencia si así lo estipulan los estatutos (Arts. 206 y 207 Código de Comercio)
+
+OBSERVACIÓN LEGAL:
+Existe una inconsistencia en el quórum legal, porque no es compatible con lo reglamentado por el Art. 209 del Código de Comercio para la toma de decisiones.
+
+REQUERIMIENTOS PARA DECISIONES:
+- Decisiones administrativas: votos de los socios que representen más de la mitad del capital social
+- Decisiones de política empresarial: dos tercios del capital social
+
+RECOMENDACIÓN:
+Las sociedades de responsabilidad limitada deberán determinar en sus estatutos el quórum necesario para llevar a cabo sus asambleas, considerando que en cualquiera de ellas (ordinarias o extraordinarias) se pueden tratar asuntos administrativos o de política empresarial.
+
+PROTECCIÓN MINORITARIA:
+El contrato social puede establecer salvedades que impidan dejar el poder de decisión en un solo socio, si éste representara más del cincuenta por ciento de las cuotas del capital social.
+
+FACULTADES DE LA ASAMBLEA DE SOCIOS (Art. 204 Código de Comercio):
+
+DECISIONES ADMINISTRATIVAS (mayoría absoluta - más del 50%):
+1) Discutir, aprobar, modificar o rechazar el balance general correspondiente al ejercicio vencido
+2) Aprobar y distribuir utilidades
+3) Nombrar y remover a los gerentes y administradores
+4) Constituir el directorio o consejo administrativo y nombrar integrantes del órgano de control interno
+
+DECISIONES DE POLÍTICA EMPRESARIAL (dos tercios del capital):
+5) Aprobar los reglamentos
+6) Autorizar todo aumento o reducción de capital social, así como la cesión de las cuotas de capital y la admisión de nuevos socios
+7) Modificar la escritura constitutiva
+8) Decidir acerca de la disolución de la sociedad, así como el retiro de socios
+
+OTRAS DECISIONES:
+9) Las demás que correspondan conforme escritura social (se define según su contenido)
+
+PERIODICIDAD:
+Las asambleas ordinarias deberán reunirse por lo menos una vez al año, a más tardar a los tres meses de emitido el balance de cierre de cada gestión (Art. 205 Código de Comercio).
+
+En ambas asambleas pueden tratarse asuntos administrativos o de política social, respetando para cada caso el número de votos requerido para su aprobación.

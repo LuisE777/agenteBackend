@@ -1,0 +1,44 @@
+REGISTROS CONTABLES DE LAS ASOCIACIONES ACCIDENTALES
+
+CRITERIOS PARA IMPLEMENTACIÓN:
+Los registros contables se implementarán de acuerdo a la magnitud de las operaciones, duración y capital invertido.
+
+TIPOS DE SISTEMAS CONTABLES:
+
+1. ACTIVIDADES PEQUEÑAS:
+- Solo requieren registros básicos:
+  * Libros de compras
+  * Libros de ventas
+  * Libros de gastos
+
+2. ACTIVIDADES MEDIANAS:
+- Sistema contable simplificado
+- Mayor control pero sin complejidad excesiva
+
+3. ACTIVIDADES MAYORES:
+- Sistema contable más adecuado y completo
+- Controles más rigurosos
+- Mayor detalle en registros
+
+SISTEMA CONTABLE SIMPLIFICADO:
+En el caso de utilizar registros contables simplificados, se pueden agrupar las cuentas de resultados en una sola cuenta con denominaciones como:
+- "Cuentas en participación"
+- "Cuentas de la Asociación"
+- "Cuentas de Resultado"
+
+REQUISITOS IMPORTANTES:
+- Tener el cuidado de aclarar las operaciones efectuadas en las glosas de cada uno de los registros
+- El saldo de esta única cuenta mostrará el resultado de las operaciones
+
+VENTAJAS DEL SISTEMA SIMPLIFICADO:
+- Menor complejidad administrativa
+- Adecuado para operaciones temporales
+- Facilita la comprensión del resultado final
+- Reduce costos de implementación contable
+
+CONSIDERACIONES PRÁCTICAS:
+La elección del sistema contable debe considerar:
+- Duración de la asociación
+- Complejidad de las operaciones
+- Requerimientos de los socios
+- Obligaciones fiscales

@@ -1,4 +1,7 @@
-Si durante el proceso de distribución del patrimonio dentro la liquidacion, algún socio no se presentara a cobrar su saldo 
-en el lapso de sesenta días de su aprobación, este saldo deberá ser depositado en un banco a su nombre y si se tratara de 
-socios que tienen acciones al portador y cuyos nombres se desconocen, se efectuarán los depósitos bajo el número y series
- correspondientes de las acciones.
+## Tema: Liquidación de sociedades  
+### Subtema: Distribución del patrimonio
+
+**Texto explicativo:**  
+Durante el proceso de distribución del patrimonio en la liquidación, si algún socio no se presenta a cobrar su saldo dentro de los sesenta días posteriores a su aprobación, dicho saldo debe ser depositado en un banco a nombre del socio.  
+
+En caso de socios con acciones al portador cuyos nombres se desconozcan, los depósitos se realizarán identificando el número y la serie correspondientes a sus acciones.

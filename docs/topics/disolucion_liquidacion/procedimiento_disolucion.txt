@@ -1,2 +1,5 @@
-El procedimiento de disolución de sociedades, consiste en anular los registros de las entidades en que se efectuaron
-los mismos: FUNDEMPRESA, SIN, HAM, CNS, AFP, Ministerio de Trabajo, Cámara del Sector y otros que se hubieran realizado.
+## Tema: Disolución de sociedades  
+### Subtema: Procedimiento de disolución
+
+**Texto explicativo:**  
+El procedimiento de disolución de sociedades consiste en anular los registros de la entidad en los organismos donde se realizaron las inscripciones, tales como FUNDEMPRESA, SIN, HAM, CNS, AFP, Ministerio de Trabajo, Cámara del Sector, entre otros.

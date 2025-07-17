@@ -1,2 +1,5 @@
-Liquidar una sociedad, es la acción de realizar su activo con el objeto de cancelar su pasivo y 
-distribuir el patrimonio neto entre los socios
+## Tema: Liquidación de sociedades  
+### Subtema: Concepto de liquidación
+
+**Texto explicativo:**  
+Liquidar una sociedad consiste en realizar (vender o convertir en efectivo) el activo de la empresa con el propósito de cancelar sus pasivos y, posteriormente, distribuir el patrimonio neto resultante entre los socios.

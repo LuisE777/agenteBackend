@@ -1,0 +1,53 @@
+CAPITAL SOCIAL Y BALANCE DE LAS SRL
+
+TEMA: Estructura del capital y requisitos de constitución
+
+CARACTERÍSTICAS DEL CAPITAL SOCIAL:
+
+1) DIVISIÓN DEL CAPITAL:
+- Está dividido en cuotas de igual valor
+- Cada cuota tiene un valor mínimo de diez bolivianos o múltiplos de diez
+
+2) INTEGRACIÓN DEL CAPITAL:
+- Debe cancelarse íntegramente en el acto de constitución
+- Sin este requisito no podrá empezar su giro
+- Los aportes de capital deben ser íntegros al momento de la constitución
+
+3) PAGOS PREVIOS:
+- No se contrapone al hecho de que con anterioridad vayan efectuando pagos parciales
+- Estos pagos parciales deben completar el capital social antes de la constitución
+
+4) REPRESENTACIÓN:
+- El capital está representado por los socios
+- NO por títulos valores (diferencia con las sociedades anónimas)
+
+5) LÍMITES DE CAPITAL:
+- No existe un límite máximo para el capital social
+- Esto permite que no solo puedan dar lugar a la constitución de pequeñas empresas
+
+RESPONSABILIDAD DE LOS SOCIOS:
+- La responsabilidad está limitada a sus aportes de capital
+- No están en juego sus bienes privados
+- Esta característica las diferencia de las sociedades colectivas
+
+RESERVA LEGAL OBLIGATORIA:
+- Debido a su responsabilidad limitada, están obligadas a efectuar reserva legal
+- Mínimo: 5% de las utilidades de cada gestión
+- Objetivo: igualar mínimamente el 50% del capital pagado
+- Esta reserva protege a terceros que contraten con la sociedad
+
+NÚMERO DE SOCIOS:
+- Mínimo: 2 socios
+- Máximo: 25 socios
+- Es el único tipo de sociedad que tiene límite máximo de socios
+- Posiblemente debido a que está destinada a pequeñas empresas
+
+BALANCE Y ASIENTOS DE APERTURA:
+- Los aportes de capital deben ser íntegros al momento de la constitución
+- El balance inicial debe reflejar el capital totalmente pagado
+- Los asientos de apertura registran la constitución de la sociedad con capital íntegro
+
+IMPORTANCIA DE LA INTEGRACIÓN TOTAL:
+- Garantiza que la sociedad inicie operaciones con recursos suficientes
+- Protege a terceros que contraten con la sociedad
+- Evita problemas de liquidez en los primeros momentos de funcionamiento

@@ -1,0 +1,34 @@
+ADMINISTRACIÓN DE LAS SOCIEDADES DE RESPONSABILIDAD LIMITADA
+
+TEMA: Estructura administrativa y órganos de gestión
+
+FORMAS DE ADMINISTRACIÓN:
+La administración de las SRL puede estar a cargo de:
+
+1) UNO O MÁS GERENTES:
+- Pueden ser o no socios
+- Designados por un tiempo fijo o indeterminado
+- Con facultades de gestión y representación
+
+2) UN DIRECTORIO:
+- Puede estar compuesto por socios o no socios
+- Designados por un tiempo fijo o indeterminado
+- Con facultades de gestión y representación
+- Se recomienda cuando el número de socios es igual o mayor a diez
+- Debe seguir las normas que regulan el directorio de las sociedades anónimas (Art. 203 Código de Comercio)
+
+3) OTRA SOCIEDAD:
+- Puede ser administrada por otra sociedad si ésta se constituye en socio
+- Las sociedades anónimas o las sociedades en comandita por acciones pueden adquirir esta calidad de socios en las SRL (Art. 146 Código de Comercio)
+
+DERECHOS DE LOS SOCIOS NO ADMINISTRADORES:
+Los socios que no participan en la administración tienen derecho a:
+- Examinar los libros de contabilidad y documentos de la sociedad en cualquier momento
+- Nombrar sus representantes para que ejerzan control y vigilancia por cuenta de ellos, al igual que los síndicos de las sociedades anónimas
+
+IMPORTANTE:
+La constitución permanente de estos órganos de control anula la participación directa de los socios en el control de la administración.
+
+MARCO LEGAL:
+- Artículo 203 del Código de Comercio: Regulación del directorio
+- Artículo 146 del Código de Comercio: Participación de otras sociedades como socios

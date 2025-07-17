@@ -1,9 +1,14 @@
-Segun el articulo 1563 del codigo de comercio se establece atribuciones y deberes del Síndico que llevara adelante la liquidacion por quiebra:
-1) Tomar posesión de la empresa y demás bienes del fallido y encargarse de su administración;
-2) Dentro de los quince días siguientes a su posesión, elevar informe de la auditoria practicada o elaborar el balance general, inventario y demás estados e informar al juez y a los acreedores sobre el estado de la empresa con su opinión fundada sobre el mismo. El juez, si hubieran motivos que así lo justifiquen, puede ampliar el plazo para dicha presentación.
-3) Rendir cuenta al juez e informarle, mensualmente, sobre su gestión y marcha del proceso de liquidación e informar extraordinariamente, cuantas veces el juez lo requiera;
-04) Llevar o disponer, en su caso, bajo su responsabilidad que se lleve la contabilidad de la propia quiebra, adoptando el sistema más adecuado a ésta;
-5) Tramitar las inscripciones hipotecarias sobre los bienes del quebrado a nombre de la masa;
-o 6) Ejercitar y continuar todos los derechos y acciones correspondientes al deudor, con relación a sus bienes y a la masa de la quiebra, contra terceros y contra determinados acreedores de aquella, excepto en los casos estrictamente personales;
-7) Intentar todas las acciones necesarias para la conservación y reintegración de la masa de la quiebra, así como atender a las solicitudes de restitución de los bienes que deben separarse de la misma, y
-8) En general, solicitar todas las medidas dispuestas por este Capítulo y otras necesarias para la rapidez del trámite de la quiebra.
+## Tema: Quiebra  
+### Subtema: Atribuciones y deberes del síndico en la liquidación por quiebra
+
+**Texto explicativo:**  
+Según el artículo 1563 del Código de Comercio, el síndico encargado de la liquidación por quiebra tiene las siguientes atribuciones y deberes:
+
+1. Tomar posesión de la empresa y bienes del fallido, y encargarse de su administración.  
+2. Dentro de los quince días siguientes a su posesión, elevar un informe de auditoría o elaborar el balance general, inventario y demás estados, e informar al juez y a los acreedores sobre el estado de la empresa con opinión fundada. El juez puede ampliar este plazo si lo considera necesario.  
+3. Rendir cuentas al juez e informar mensualmente sobre la gestión y el avance del proceso de liquidación, así como presentar informes extraordinarios cuando el juez lo requiera.  
+4. Llevar o disponer la contabilidad de la quiebra bajo su responsabilidad, adoptando el sistema más adecuado.  
+5. Tramitar las inscripciones hipotecarias sobre los bienes del quebrado a nombre de la masa.  
+6. Ejercer y continuar todos los derechos y acciones del deudor respecto a sus bienes y la masa de la quiebra contra terceros y determinados acreedores, excepto en casos estrictamente personales.  
+7. Intentar todas las acciones necesarias para conservar y reintegrar la masa de la quiebra, y atender las solicitudes de restitución de bienes que deban separarse de la masa.  
+8. Solicitar todas las medidas previstas por la normativa y otras necesarias para agilizar el trámite de la quiebra.

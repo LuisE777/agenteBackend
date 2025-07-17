@@ -1,0 +1,59 @@
+ADMISIÓN Y RETIRO DE SOCIOS
+
+TEMA: Procedimientos para ingreso y salida de socios en las SRL
+
+PRINCIPIO FUNDAMENTAL:
+Como se trata de sociedades de personas donde prima la confianza entre todos los socios, la transferencia de cuotas tiene regulaciones específicas.
+
+TRANSFERENCIA DE CUOTAS A TERCEROS:
+- NO ES LIBRE
+- Requiere el voto de socios que representen dos tercios del capital social
+- Debe ser publicada e inscrita en el Registro de Comercio (FUNDEMPRESA)
+- Modifica el contrato de constitución (Arts. 215 y 214 Código de Comercio)
+
+TRANSFERENCIA DE CUOTAS ENTRE SOCIOS:
+- ES LIBRE
+- Salvo que se establezcan limitaciones en el contrato social
+- Ejemplo de limitación: impedir la acumulación de la mayoría absoluta de capital en un solo socio
+- También debe ser publicada e inscrita en el Registro de Comercio (FUNDEMPRESA)
+
+PROCEDIMIENTO PARA TRANSFERENCIA A TERCEROS:
+
+1) NOTIFICACIÓN:
+- El socio disidente autorizado a transferir debe notificar por escrito su decisión a la sociedad
+
+2) DERECHO PREFERENTE:
+- Los otros socios tienen 15 días para ejercer su derecho preferente
+- Si no ejercen este derecho, el socio puede ofrecer sus cuotas a terceros
+
+3) RETIRO SIN AUTORIZACIÓN DE TRANSFERENCIA:
+- Si está aprobado el retiro pero no autorizada la transferencia a terceros
+- La sociedad debe elegir nuevos socios en 60 días
+- Si no se hace efectiva la operación en 20 días adicionales, deben:
+  a) Devolver al socio disidente su capital debidamente actualizado, o
+  b) Proceder a la disolución y liquidación de la sociedad (Art. 216 Código de Comercio)
+
+CASO DE MUERTE DE UN SOCIO:
+
+1) SI EL CONTRATO PERMITE INCORPORACIÓN DE HEREDEROS:
+- El pacto será obligatorio
+
+2) SI EL CONTRATO NO LO PERMITE:
+- Los socios restantes pueden aprobar su ingreso a la sociedad
+- O devolverles su parte correspondiente previa evaluación del valor comercial
+
+EVALUACIÓN DEL VALOR:
+- De mutuo acuerdo entre las partes
+- Por peritos designados por ambas partes
+- Por el juez, de no existir común acuerdo
+
+OBLIGACIONES DE REGISTRO:
+Las sociedades de responsabilidad limitada están obligadas a llevar un registro de socios, donde se inscribirá:
+- Nombre del socio
+- Domicilio
+- Monto de su aportación
+- Transferencia de sus cuotas de capital
+- Embargos y gravámenes efectuados
+
+VALIDEZ DEL RETIRO:
+El retiro de un socio tiene validez a partir de su inscripción en el Registro de Comercio.

@@ -1,16 +1,26 @@
-1)Causas Voluntarias:se refiere a la decisión que toman los socios de disolver la empresa, debido a la situación incierta de la
-sociedad, normalmente basada en informes de los administradores, el directorio, el síndico, o su propio análisis. Como ejemplo
-de este caso podemos indicar: acuerdo entre los socios, disidencias internas, bajos rendimientos, etc.
-La liquidación puede ser efectuada por sus administradores o por terceras personas. Las causas voluntarias incluye el punto 1 del articulo
-378 causas de disolucion del codigo de comercio
+## Tema: Disolución de sociedades
+### Subtema: Clasificación de las causas de disolución
 
-2) Causas forzosas o Estatutarias: son aquellas que se encuentran estipuladas en los estatutos.
-Si alguna de estas no se encuentran indicadas en los estatutos, se constituyen en causas voluntarias.
-La liquidación puede ser efectuada por sus administradores o terceras personas. Las causas forzosas o Estatutarias incluyen los puntos 
-2,3,4,5 y 9 del articulo 378 causas de disolucion del codigo de comercio
+**Texto explicativo:**
 
-3) Causas Legales: son las que se cumplen por imperio de las leyes.
-Las causas legales incluye los puntos 6, 7 y 8 del articulo 378 causas de disolucion del codigo de comercio
-La liquidación en el punto 6 la efectúan los personeros nombrados por el Juez Comisario
-En el punto 7 no existe liquidación 
-En el punto 8 la liquidación podrá ser efectuada por los administradores o terceras personas.
+Las causas de disolución de sociedades comerciales pueden clasificarse en tres categorías principales:
+
+1) **Causas voluntarias**  
+   Se refieren a decisiones tomadas libremente por los socios ante situaciones inciertas o inconvenientes para la continuidad de la empresa. Estas decisiones pueden basarse en informes de los administradores, el directorio, el síndico, o en el análisis propio de los socios.  
+   Ejemplos comunes incluyen: acuerdos mutuos, disidencias internas o bajos rendimientos.  
+   La liquidación puede ser realizada por los administradores o por terceras personas.  
+   → Corresponde al punto 1 del artículo 378 del Código de Comercio.
+
+2) **Causas forzosas o estatutarias**  
+   Son aquellas establecidas expresamente en el contrato constitutivo o estatutos de la sociedad.  
+   Si alguna causa no está prevista en los estatutos, se considera voluntaria.  
+   La liquidación también puede ser ejecutada por administradores o terceros.  
+   → Corresponden a los puntos 2, 3, 4, 5 y 9 del artículo 378 del Código de Comercio.
+
+3) **Causas legales**  
+   Derivan directamente del cumplimiento de disposiciones legales.  
+   → Corresponden a los puntos 6, 7 y 8 del artículo 378 del Código de Comercio.  
+   - **Punto 6 (quiebra):** La liquidación es realizada por los personeros designados por el Juez Comisario.  
+   - **Punto 7 (fusión):** No se realiza proceso de liquidación.  
+   - **Punto 8 (reducción de socios):** La liquidación puede ser ejecutada por administradores o terceros.
+

@@ -1,4 +1,7 @@
-Segun el articulo 1651 del Codigo de Comercio:
-Si el proceso de quiebra hubiera sido clausurado por falta o insuficiencia de activo, y dentro de los dos años siguientes, 
-se comprobará la existencia de bienes, se reabrirá el procedimiento a solicitud de cualquier acreedor, siguiendo nuevamente los pasos 
-indicados para el procedimiento de quiebra. 
+## Tema: Quiebra  
+### Subtema: Reinicio del proceso de quiebra
+
+**Texto explicativo:**  
+Según el artículo 1651 del Código de Comercio, si un proceso de quiebra fue clausurado por falta o insuficiencia de activo, pero dentro de los dos años siguientes se descubre la existencia de bienes, el procedimiento podrá reabrirse a solicitud de cualquier acreedor.  
+
+El proceso se retomará siguiendo los mismos pasos establecidos para la quiebra.

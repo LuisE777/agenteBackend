@@ -1,11 +1,18 @@
-Procedimiento:
-1) Publicar su disolución y liquidación;
-2) Aumentar a la denominación o razón social las palabras "En Liquidación", por cuya omisión adquieren responsabilidad solidaria e ilimitada.;
-3) Dar parte por escrito de la disolución de la sociedad y cese de actividades a los acreedores y a las instituciones donde está registrada la sociedad, como ser: la Dirección General de Impuestos Internos, Municipalidad, Registro de Comercio, a las distintas cámaras sectoriales (de Industria, Comercio, Construcción, de Exportadores, etc.), Caja Nacional de Salud, Administradoras de Pensiones, Ministro de Trabajo y otras.
-4) Levantar un inventario de los bienes de la sociedad y preparar un balance inicial de liquidación en el plazo de treinta días, que puede ser ampliado hasta ciento veinte por simple mayoría de votos.
-También tienen la obligación de/presentar balances periódicos cuando la liquidación dure mucho tiempo; 5) Concluir las operaciones sociales que hubieran quedado pendientes al sobrevenir la disolución;
-6) Cobrar lo que se deba a la sociedad y si estas deudas fueran a plazos, velar porque los saldos se encuentren adecuadamente garantizados;
-7) Vender los bienes de la sociedad;
-8) Pagar lo que deba la sociedad, o sea cubrir el pasivo y si no se lograra este objetivo con la realización del activo, en los casos en que existan socios con responsabilidad Ilimitada, exigirles a ellos la cancelación de las diferencias, caso contrario prescribe la deuda.
-9) Extinguido el pasivo social y de existir saldo patrimonial, elaborar el balance final y un proyecto de distribución del patrimonio que deben ser aprobados por los socios y ser inscritos en el Registro de Comercio (FUNDEMPRESA); 10) Proceder a la distribución del patrimonio neto entre los socios, y
-11) Tramitar la cancelación de la inscripción de la sociedad en el Registro de Comercio (FUNDEMPRESA), con lo que se anula su personalidad jurídica.
+## Tema: Liquidación de sociedades  
+### Subtema: Procedimiento de liquidación corriente
+
+**Texto explicativo:**  
+
+El procedimiento de liquidación corriente incluye los siguientes pasos:
+
+1. Publicar la disolución y liquidación de la sociedad.  
+2. Añadir a la denominación o razón social las palabras "En Liquidación", ya que su omisión genera responsabilidad solidaria e ilimitada.  
+3. Notificar por escrito la disolución y cese de actividades a los acreedores y a las instituciones donde está registrada la sociedad, tales como: Dirección General de Impuestos Internos, Municipalidad, Registro de Comercio, cámaras sectoriales (Industria, Comercio, Construcción, Exportadores, etc.), Caja Nacional de Salud, Administradoras de Pensiones, Ministerio de Trabajo, entre otras.  
+4. Levantar un inventario de los bienes y preparar un balance inicial de liquidación en un plazo de treinta días, ampliable hasta ciento veinte por mayoría simple. Además, se deben presentar balances periódicos si la liquidación se extiende en el tiempo.  
+5. Concluir las operaciones sociales pendientes al momento de la disolución.  
+6. Cobrar las deudas adeudadas a la sociedad, garantizando adecuadamente los saldos a plazos.  
+7. Vender los bienes de la sociedad.  
+8. Pagar las obligaciones de la sociedad. Si el activo no cubre el pasivo y existen socios con responsabilidad ilimitada, estos deben cancelar la diferencia; de lo contrario, la deuda prescribe.  
+9. Una vez extinguido el pasivo y si existe saldo patrimonial, elaborar el balance final y un proyecto de distribución del patrimonio, los cuales deben ser aprobados por los socios e inscritos en el Registro de Comercio (FUNDEMPRESA).  
+10. Proceder a la distribución del patrimonio neto entre los socios.  
+11. Tramitar la cancelación de la inscripción de la sociedad en el Registro de Comercio, lo que anula su personalidad jurídica.  
