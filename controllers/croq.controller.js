@@ -151,11 +151,12 @@ const evaluation = async (req, res) => {
     const prompt = req.query.prompt;
     const frase = "limpiar contenido";
 
-    if (prompt.includes(frase)) {
+    if (prompt.toLowerCase().includes(frase.toLowerCase())) {
       contenidoObtenido = [];
       mensajesBot = [];
-      console.log("CONTENIDO LIMPIADO JEFE")
+      console.log("CONTENIDO LIMPIADO JEFE");
     }
+    
     if(topic != req.query.topic){
       //limpiando contexto guardado y chats anteriores al detectarse un cambio de tema
       contenidoObtenido = [];
