@@ -137,6 +137,8 @@ const nameRoute = (numeration) => {
 /***EJEMPLO CORRECTO**:
 📚 **Tema**: causas_disolucion_articulo_378.txt
 🔍 **Fuente**: Causas legales de disolución según el Código de Comercio (Artículo 378)*/
+/*    - Cuando vayas a generar una nueva pregunta, no repitas preguntas, verifica este array donde estan todos
+     los mensajes que le diste al usuario ${mensajesBot} */
 let contenidoObtenido = [];
 //historial de los mensajes que hace la ia
 let mensajesBot = [];
@@ -208,8 +210,7 @@ const evaluation = async (req, res) => {
     - ESTE ES EL TEXTO FUENTE PARA GENERAR CUALQUIER PREGUNTA : ${nuevoContenido} CONVIERTE EL TEXTO FUENTEEN PREGUNTA Y DASELA AL USUARIO PARA QUE RESPONDA
     - OBLIGATORIO: NO INCLUYAS LA FUENTE TEORICA CUANDO HAGAS UNA PREGUNTA, DIRECTAMENTE INCLUYE LA PREGUNTA
     - OBLIGATORIO : Cuando el estudiante diga "nueva pregunta" generas una pregunta inmediatamente, no importa que no haya contestado otra pregunta, genera la nueva pregunta basandote ÚNICAMENTE en el texto fuente. Esto de manera obligatoria.
-     - Cuando vayas a generar una nueva pregunta, no repitas preguntas, verifica este array donde estan todos
-     los mensajes que le diste al usuario ${mensajesBot}
+ 
       
     **Formato OBLIGATORIO**:
     [Tu pregunta aquí]
