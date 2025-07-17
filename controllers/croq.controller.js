@@ -281,6 +281,7 @@ const openingProcess = async (req, res) => {
       throw new Error("Debe enviar una pregunta válida.");
     }
     const rute =  '../docs/process/'+nameRouteProcess( Number(req.query.numeration));
+    console.log('la ruta en render', rute)
     // Ruta del archivo TXT desde croq.controller.js
     const filePath = path.join(__dirname, rute);
     const context = await fs.readFile(filePath, 'utf-8');
