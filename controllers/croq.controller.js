@@ -132,6 +132,14 @@ const nameRoute = (numeration) => {
   }
 
 }
+/* ⚠️ **RESTRICCIONES CRÍTICAS**:
+    - NUNCA inventes fuentes como "Libro de Contabilidad de Sociedades" o similares
+    - NUNCA uses información que no esté en los archivos proporcionados
+    - NUNCA menciones archivos que no existan en la fuente
+    - NUNCA digas "fuente general" o "contenido base"
+    - NUNCA repitas preguntas del historial conversacional
+    - NUNCA hagas preguntas subjetivas u opinativas
+     */
 //🔍 **Fuente**: ${nuevoContenido}
 //topicos que va guardando la ia
 /***EJEMPLO CORRECTO**:
@@ -220,14 +228,7 @@ const evaluation = async (req, res) => {
       Cuales son las causas de la disolucion?
       (YA NO ES NECESARIO QUE INCLUYAS LA FUENTE EN EL MENSAJE CUANDO GENERAS LA PREGUNTA )
     
-    ⚠️ **RESTRICCIONES CRÍTICAS**:
-    - NUNCA inventes fuentes como "Libro de Contabilidad de Sociedades" o similares
-    - NUNCA uses información que no esté en los archivos proporcionados
-    - NUNCA menciones archivos que no existan en la fuente
-    - NUNCA digas "fuente general" o "contenido base"
-    - NUNCA repitas preguntas del historial conversacional
-    - NUNCA hagas preguntas subjetivas u opinativas
-    
+   
     📊 **SEGUIMIENTO**:
     - Mantén registro mental de archivos ya usados
     - NUNCA inventes contenido fuera de los archivos proporcionados
