@@ -145,7 +145,7 @@ let topic ='';
 const evaluation = async (req, res) => {
   try {
     if (req.query.prompt.length === 0) throw new Error("Debe enviar un mensaje");
-    let model = models[1];
+    let model = models[0];
     const prompt = req.query.prompt;
     console.log(topic)
     if(topic != req.query.topic){
