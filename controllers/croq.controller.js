@@ -76,10 +76,11 @@ const question = async (req, res) => {
     - Si no hay suficiente información en el contexto para responder bien, dilo con claridad.
     - No inventes ni especules. No uses conocimientos externos.
     - Si mencionas artículos legales, cita correctamente (ej.: “Artículo 120 del Código de Comercio de Bolivia”).
-    - En tu respuesta ademas agrega una lista de contenido relacionado entre 3 a 7 titulos, estos titulos deben estar relacionado al tema que consulta el estudiante
+
     ✍️ FORMATO DE RESPUESTA:
     Responde directamente la pregunta, explicando de manera breve, clara y didáctica, como si enseñaras.
-    
+    Agrega un ejemplo para que el estudiante pueda comprender de mejor manera la respuesta, antes del ejemplo por el titulo "EJEMPLO"
+    En tu respuesta ademas agrega una lista de contenido relacionado entre 3 a 7 titulos, estos titulos deben estar relacionado al tema que consulta el estudiante, antes de los titulos relacionales debes poner el titulo  "CONTENIDO RELACIONADO"
     🧾 COMIENZA AHORA CON LA RESPUESTA:
     `;
     
