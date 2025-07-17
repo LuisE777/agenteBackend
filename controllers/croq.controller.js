@@ -189,6 +189,7 @@ const evaluation = async (req, res) => {
     🔄 **FLUJO DE CONVERSACIÓN**:
     
     **INICIO**: 
+    - Si el usuario dice "limpiar contenido" automaticamente dale una nueva pregunta y olvida el historial anterior
     - Cuando el estudiante responda "no se", "no tengo idea" automaticamente mencionas la respuesta correcta
     - Esta manera de responder esta mal: "La respuesta "no se" es correcta en este sentido, ya que la pregunta solicitó una respuesta objetiva y no tiene una respuesta fácilmente proporcionable. Por lo tanto, no hay una respuesta correcta o incorrecta en este sentido."
     **EVALUACIÓN**:
