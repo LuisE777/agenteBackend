@@ -147,7 +147,13 @@ const evaluation = async (req, res) => {
     if (req.query.prompt.length === 0) throw new Error("Debe enviar un mensaje");
     let model = models[0];
     const prompt = req.query.prompt;
-    console.log(topic)
+    const frase = "limpiar contenido";
+
+    if (prompt.includes(frase)) {
+      contenidoObtenido = [];
+      mensajesBot = [];
+      console.log("CONTENIDO LIMPIADO JEFE")
+    }
     if(topic != req.query.topic){
       //limpiando contexto guardado y chats anteriores al detectarse un cambio de tema
       contenidoObtenido = [];
